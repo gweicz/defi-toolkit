@@ -1,10 +1,12 @@
 # DeFi Toolkit
 
+[![hackmd-github-sync-badge](https://hackmd.io/m_QNVHFmSreR8Dttw50Fyg/badge)](https://hackmd.io/m_QNVHFmSreR8Dttw50Fyg)
+
 Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 
-## Portfolio
-- :medal:[`zerion.io`](https://app.zerion.io/)
-- :medal:[`zapper.fi`](https://www.zapper.fi/)
+## Documentation
+- :medal:[`docs.ethhub.io`](https://docs.ethhub.io/)
+- [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) - formal protocol specification
 
 ## Network
 - [`ethernodes.org`](https://ethernodes.org/)
@@ -14,6 +16,10 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 - [`defiscore.io`](https://defiscore.io/) - risk score of DeFi platforms
 - [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost 
+
+## Portfolio
+- :medal:[`zerion.io`](https://app.zerion.io/)
+- :medal:[`zapper.fi`](https://www.zapper.fi/)
 
 ## Blocks & transactions
 - :medal:[`etherscan.io`](http://etherscan.io/)
