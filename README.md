@@ -1,9 +1,11 @@
 ---
-title: DeFi Toolkit by Gwei.cz
-tags: defi, ethereum, eth, uniswap, makerdao
+title: DeFi Toolkit by @gweicz
+tags: defi, ethereum, eth, smart-contract
+description: Curated list of best tools for user of Ethereum (DeFi) ecosystem.
+image: https://i.imgur.com/r48kTSf.png
 ---
 
-# DeFi Toolkit
+# DeFi Toolkit by [@gweicz](https://twitter.com/gweicz)
 
 [![hackmd-github-sync-badge](https://hackmd.io/m_QNVHFmSreR8Dttw50Fyg/badge)](https://hackmd.io/m_QNVHFmSreR8Dttw50Fyg)
 
@@ -11,6 +13,7 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 
 ## Documentation
 - :star:[`docs.ethhub.io`](https://docs.ethhub.io/)
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) - formal protocol specification
 
 ## Security
@@ -38,6 +41,7 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 ## Portfolio
 - :star:[`zerion.io`](https://app.zerion.io/)
 - :star:[`zapper.fi`](https://www.zapper.fi/)
+- [`debank.com`](https://debank.com/)
 
 ## Financial metrics
 - [`ethdashboard.com`](https://ethdashboard.com/)
@@ -63,15 +67,19 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 - [`btconethereum.com`](https://btconethereum.com/)
 - [BTC on ETH Graph @ `predictions.exchange`](http://www.predictions.exchange/ethbtc/)
 
+## Yield Farming
+- [`yieldfarming.info`](https://yieldfarming.info/)
 
 ## Protocols
 
 ### Uniswap
-- [`uniswap.vision`](https://uniswap.vision/) - Uniswap TradingView interface
-- [Uniswap V2 Statistics @ `dextools.io`](https://www.dextools.io/app/uniswap/pool-explorer) - Pool/Pair Explorer
+- [`uniswap.vision`](https://uniswap.vision/) - TradingView interface
+- [`chartex.pro`](https://chartex.pro/?symbol=UNISWAP:DIA) - TradingView interface for low-caps
+- [`dextools.io`](https://www.dextools.io/app/uniswap/pool-explorer) - Pool/Pair Explorer
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### MakerDAO / DAI
+- [`collateralswap.com`](https://collateralswap.com/)
 - [`daistats.com`](https://daistats.com/) - basic metrics (capitalizations, fees etc.)
 - [`daipeg.com`](https://daipeg.com/) - DAI Trading charts
 - [DAI graphs @ `descipher.io`](http://dai.descipher.io/)
@@ -80,9 +88,12 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 - [`maker-auctions.io`](https://maker-auctions.io/)
 - [`flops.live`](https://flops.live/) - Debt Auctions Tracker
 - [`makerburn.com`](https://makerburn.com/)
+- ["Awesome MakerDAO"](https://github.com/makerdao/awesome-makerdao)
 
 ### Aave
-- [Aavewatch](https://aavewatch.now.sh/)
+- [`aavewatch.now.sh`](https://aavewatch.now.sh/)
+- [`aave-futuristic-dashboard.now.sh`](https://aave-futuristic-dashboard.now.sh/)
+- ["The Aavesome List"](https://github.com/marczeller/Aavesome-list)
 
 ### Compound
 - [`stat.farm`](https://stat.farm/)
@@ -119,6 +130,9 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 ### 0x
 - [`0xtracker.com`](https://0xtracker.com/)
 
+### dYdX
+- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)
+
 ## Books
 - ["Mastering Ethereum" by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)
 - ["The Infinite Machine" by Camila Russo](https://www.harpercollins.com/products/the-infinite-machine-camila-russo)
@@ -133,6 +147,7 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 - [`beaconcha.in`](https://beaconcha.in/)
 - [`beaconscan.com`](https://beaconscan.com/)
 - [`eth2stats.io`](https://eth2stats.io/)
+- ["Ethereum 2.0" section @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
 
 ## Fun
 - [`feedvitalik.com`](https://feedvitalik.com/)
