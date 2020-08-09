@@ -1,3 +1,8 @@
+---
+title: DeFi Toolkit by Gwei.cz
+tags: defi, ethereum, eth, uniswap, makerdao
+---
+
 # DeFi Toolkit
 
 [![hackmd-github-sync-badge](https://hackmd.io/m_QNVHFmSreR8Dttw50Fyg/badge)](https://hackmd.io/m_QNVHFmSreR8Dttw50Fyg)
@@ -5,39 +10,39 @@
 Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 
 ## Documentation
-- :medal:[`docs.ethhub.io`](https://docs.ethhub.io/)
+- :star:[`docs.ethhub.io`](https://docs.ethhub.io/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) - formal protocol specification
+
+## Security
+- [`defiscore.io`](https://defiscore.io/) - risk score of DeFi platforms
+- [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
+- [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
 
 ## Network
 - [`ethernodes.org`](https://ethernodes.org/)
 - [`ethstats.io`](https://ethstats.io/)
 
-## Security
-- [`defiscore.io`](https://defiscore.io/) - risk score of DeFi platforms
-- [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
-- [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost 
-
-## Portfolio
-- :medal:[`zerion.io`](https://app.zerion.io/)
-- :medal:[`zapper.fi`](https://www.zapper.fi/)
-
 ## Blocks & transactions
-- :medal:[`etherscan.io`](http://etherscan.io/)
+- :star:[`etherscan.io`](http://etherscan.io/)
 - [`ethviewer.live`](http://www.ethviewer.live/)
 - [Transaction visualizer @ `TxStreet.com`](https://txstreet.com/v/eth)
 
 ## Fees & gas
-- :medal:[`ethgasstation.info`](https://ethgasstation.info/)
+- :star:[`ethgasstation.info`](https://ethgasstation.info/)
 - [Ethereum TxPool Statistics](https://txpool.zengo.com/)
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) - micro dapp
 - [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - Introduction article
 - [Automated buying of Chi Tokens @ `hal.xyz`](https://9000.hal.xyz/recipes/1inch-buy-chi-token)
 - [`fees.wtf`](https://fees.wtf/)
 
+## Portfolio
+- :star:[`zerion.io`](https://app.zerion.io/)
+- :star:[`zapper.fi`](https://www.zapper.fi/)
+
 ## Financial metrics
-- [ETH Dashboard](https://ethdashboard.com/)
-- [DEX statistics @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7)
+- [`ethdashboard.com`](https://ethdashboard.com/)
 - [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
+- [DEX statistics @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7)
 
 ## Communication
 - [`ethmail.cc`](https://ethmail.cc/) - mailbox for all people who have Ethereum wallet
@@ -51,12 +56,13 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 ## Oracles
 - [`oracles.club`](https://oracles.club/) - overview of all oracles (Maker, Chainlink, ..)
 
+## DAOs
+- [`deepdao.world`](http://deepdao.world/) - overview of all DAOs (Aragon, Moloch, ..)
+
 ## BTC on Ethereum
 - [`btconethereum.com`](https://btconethereum.com/)
 - [BTC on ETH Graph @ `predictions.exchange`](http://www.predictions.exchange/ethbtc/)
 
-## DAOs
-- [`deepdao.world`](http://deepdao.world/) - overview of all DAOs (Aragon, Moloch, ..)
 
 ## Protocols
 
@@ -83,6 +89,7 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 
 ### Nexus Mutual
 - [`nexustracker.io`](https://nexustracker.io/)
+- [wNXM Wrap/Unwrap](https://je45e4c2q4x52s66qenp5aeyfonfsvkvupkf4ipefkzs364gbera.arweave.net/STnScFqHL91L3oEa_oCYK5pZVVWj1F4h5CqzLfuGCSI/#/)[^wnxm-source]
 
 ### TokenSets
 - [`tokenviz.io`](https://tokenviz.io/)
@@ -106,16 +113,24 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 ### Matcha
 - [Dashboard @ `duneanalytics.com`](http://duneanalytics.com/matcha)
 
+### Omen
+- [`omenfarming.com`](https://omenfarming.com/)
+
+### 0x
+- [`0xtracker.com`](https://0xtracker.com/)
+
 ## Books
 - ["Mastering Ethereum" by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)
 - ["The Infinite Machine" by Camila Russo](https://www.harpercollins.com/products/the-infinite-machine-camila-russo)
 
 ## Newsletters
 - [The Daily Gwei](https://thedailygwei.substack.com/)
+- [Today in DeFi](https://todayindefi.substack.com/)
 - [Week In Ethereum](https://weekinethereum.substack.com/)
 - [Bankless](http://bankless.substack.com/)
 
 ## Ethereum 2.0
+- [`beaconcha.in`](https://beaconcha.in/)
 - [`beaconscan.com`](https://beaconscan.com/)
 - [`eth2stats.io`](https://eth2stats.io/)
 
@@ -129,3 +144,5 @@ Curated list of best tools for user of Ethereum (DeFi) ecosystem.
 
 Created by [Gwei.cz](https://gwei.cz) Community ([@gweicz](https://twitter.com/gweicz))
 
+
+[^wnxm-source]: https://twitter.com/BatmanDeFi/status/1284206337165910016
