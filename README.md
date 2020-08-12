@@ -11,6 +11,11 @@ image: https://i.imgur.com/r48kTSf.png
 
 Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
+| Item | Description |
+| -------- | -------- |
+| :star:Item | must-have |
+| ==Item== | newly added |
+
 ## Documentation
 - :star:[`docs.ethhub.io`](https://docs.ethhub.io/)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -21,33 +26,39 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
 
-## Network
+## Network status
 - [`ethernodes.org`](https://ethernodes.org/)
 - [`ethstats.io`](https://ethstats.io/)
 
-## Blocks & transactions
+## Block explorer & monitoring
 - :star:[`etherscan.io`](http://etherscan.io/)
 - [`ethviewer.live`](http://www.ethviewer.live/)
 - [Transaction visualizer @ `TxStreet.com`](https://txstreet.com/v/eth)
 
-## Supply
-- ==[ethsupply](https://github.com/madumas/ethsupply) - calculates the total amount of Eth ever issued[^ethsupply-source]==
+<!-- ## Supply
+- [ethsupply](https://github.com/madumas/ethsupply) - calculates the total amount of Eth ever issued[^ethsupply-source]
+- [supply.go](https://gist.github.com/karalabe/4cc4bb89a32a93a194803654753c3fac) -->
 
 ## Fees & gas
 - :star:[`ethgasstation.info`](https://ethgasstation.info/)
 - [Ethereum TxPool Statistics](https://txpool.zengo.com/)
+- [Gas Prices Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/ZN89dYu9g2ErUDWhEJJbLlsXxZRAiOprTL0eGdU6)[^gas-dashboard-source]
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) - micro dapp
 - [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - Introduction article
 - [Automated buying of Chi Tokens @ `hal.xyz`](https://9000.hal.xyz/recipes/1inch-buy-chi-token)
 - [`fees.wtf`](https://fees.wtf/)
 
 ## Wallets
-- ==["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)==
+- ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
 
 ## Portfolio
 - :star:[`zerion.io`](https://app.zerion.io/)
 - :star:[`zapper.fi`](https://www.zapper.fi/)
 - [`debank.com`](https://debank.com/)
+
+## Custom transactions
+- ==[`furucombo.app`](https://furucombo.app/)==
+- [`bulksender.app`](https://bulksender.app/)
 
 ## Financial metrics
 - [`ethdashboard.com`](https://ethdashboard.com/)
@@ -77,6 +88,12 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Yield Farming
 - [`yieldfarming.info`](https://yieldfarming.info/)
 
+## Layer 2
+- ["Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework"](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
+
+## Social Money
+- ==[List of social tokens @ `forefront.news`](https://forefront.news/market/)[^forefront-src]==
+
 ## Protocols
 
 ### 0x
@@ -94,15 +111,18 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Balancer
 - [`pools.vision`](http://pools.vision/)
 
+### Bancor
+- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/kkvyor52spBBLRWpTDswfafl2uRDhMOaErhNHGoU)
+
 ### Compound
 - [`stat.farm`](https://stat.farm/) ([source](https://github.com/Anish-Agnihotri/stat.farm))
-- ==[`divided.house`](https://divided.house/) - governance proposals==
+- [`divided.house`](https://divided.house/) - governance proposals
 
 ### CryptoKitties
-- ==[`kittysales.herokuapp.com`](https://kittysales.herokuapp.com/)==
+- [`kittysales.herokuapp.com`](https://kittysales.herokuapp.com/)
 
 ### Curve
-- ==[Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/RTH47mNjQcoLv5oG0HMDdI0iDq7BHxk1PzCRdwQB)[^curve-source]==
+- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/RTH47mNjQcoLv5oG0HMDdI0iDq7BHxk1PzCRdwQB)[^curve-source]
 
 ### dYdX
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)
@@ -112,7 +132,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ### MakerDAO / DAI
 - [`daistats.com`](https://daistats.com/) - basic metrics (capitalizations, fees etc.)
-- ==[`catflip.co`](https://catflip.co/) - system params, changelog, voting==
+- [`catflip.co`](https://catflip.co/) - system params, changelog, voting
 - [`daipeg.com`](https://daipeg.com/) - DAI Trading charts
 - [DAI graphs @ `descipher.io`](http://dai.descipher.io/)
 - [Collateralization graphs @ `decipher.io`](http://makervaults.descipher.io/)
@@ -149,6 +169,12 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`chartex.pro`](https://chartex.pro/?symbol=UNISWAP:DIA) - TradingView interface for low-caps
 - [`dextools.io`](https://www.dextools.io/app/uniswap/pool-explorer) - Pool/Pair Explorer
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
+
+### YAM
+- ==[`yam.tools`](https://yam.tools/)==
+
+### Yearn
+- ==[`learnyearn.finance`](https://www.learnyearn.finance/)==
 
 ## Books
 - ["Mastering Ethereum" by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)
@@ -187,3 +213,5 @@ Most important sources:
 [^wnxm-source]: https://twitter.com/BatmanDeFi/status/1284206337165910016
 [^ethsupply-source]: https://twitter.com/marcandu/status/1291840343047118854
 [^curve-source]: https://twitter.com/CurveFinance/status/1243327941091577856?s=20
+[^gas-dashboard-source]: https://twitter.com/DuneAnalytics/status/1293093624968871938
+[^forefront-src]: https://twitter.com/carlosecgomes/status/1293215171729530880
