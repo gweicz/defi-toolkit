@@ -60,6 +60,10 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - ==[`furucombo.app`](https://furucombo.app/)==
 - [`bulksender.app`](https://bulksender.app/)
 
+## Address generation
+- ==[`vanity-eth.tk`](https://vanity-eth.tk/) ([source](https://github.com/bokub/vanity-eth))==
+- ==[Vanity Eth @ `github.com`](https://github.com/MyEtherWallet/VanityEth)==
+
 ## Financial metrics
 - [`ethdashboard.com`](https://ethdashboard.com/)
 - [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
@@ -125,7 +129,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/RTH47mNjQcoLv5oG0HMDdI0iDq7BHxk1PzCRdwQB)[^curve-source]
 
 ### dYdX
-- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)
+- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)[^dydx-da-src]
 
 ### Kleros
 - [`kleroscan.com`](http://kleroscan.com/)
@@ -171,6 +175,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
+- ==[`yam.zippo.io`](https://yam.zippo.io/)[^yam-zippo-src]==
 - ==[`yam.tools`](https://yam.tools/)==
 
 ### Yearn
@@ -185,6 +190,11 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Today in DeFi](https://todayindefi.substack.com/)
 - [Week In Ethereum](https://weekinethereum.substack.com/)
 - [Bankless](http://bankless.substack.com/)
+
+## Research
+
+### EIP-1559
+- ==[Projected Daily ETH Issuance @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/zrSKhqUarjkKrvfCgYjuPcUvW39R4ewxXZ3pwpWG)==
 
 ## Ethereum 2.0
 - [`beaconcha.in`](https://beaconcha.in/)
@@ -215,3 +225,5 @@ Most important sources:
 [^curve-source]: https://twitter.com/CurveFinance/status/1243327941091577856?s=20
 [^gas-dashboard-source]: https://twitter.com/DuneAnalytics/status/1293093624968871938
 [^forefront-src]: https://twitter.com/carlosecgomes/status/1293215171729530880
+[^yam-zippo-src]: https://twitter.com/zippoxer/status/1293342696531255302?s=2
+[^dydx-da-src]: https://twitter.com/DuneAnalytics/status/1237752192267882496
