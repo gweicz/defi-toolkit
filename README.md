@@ -24,6 +24,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Security
 - [`defiscore.io`](https://defiscore.io/) - risk score of DeFi platforms
 - [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
+- ==[`defisafety.com`](http://defisafety.com/)== - safety ranking
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
 
 ## Network status
@@ -43,7 +44,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 - :star:[`ethgasstation.info`](https://ethgasstation.info/)
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
-- ==[`gasnow.org`](https://www.gasnow.org/) - gas estimates based on SparkPool mempool[^gasnow-src]==
+- ==[`gasnow.org`](https://www.gasnow.org/) - forward-looking gas estimates (SparkPool)[^gasnow-src]==
 
 ### Historic Gas
 - [Ethereum TxPool Statistics](https://txpool.zengo.com/)
@@ -58,21 +59,27 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Automated buying of Chi Tokens @ `hal.xyz`](https://9000.hal.xyz/recipes/1inch-buy-chi-token)
 
 
+## Account & private key
+- ==[`iancoleman.io/bip39`](https://iancoleman.io/bip39/) - BIP39 derivation (mnemonic)==
+- [`vanity-eth.tk`](https://vanity-eth.tk/) ([source](https://github.com/bokub/vanity-eth))
+- [Vanity Eth generators @ `github.com`](https://github.com/search?q=eth+vanity)
+
 ## Wallets
 - ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
+
+## Custom transactions
+- [`furucombo.app`](https://furucombo.app/)
+- [`bulksender.app`](https://bulksender.app/)
 
 ## Portfolio trackers
 - :star:[`zapper.fi`](https://www.zapper.fi/)
 - :star:[`zerion.io`](https://app.zerion.io/)
 - [`debank.com`](https://debank.com/)
 
-## Custom transactions
-- [`furucombo.app`](https://furucombo.app/)
-- [`bulksender.app`](https://bulksender.app/)
-
-## Account generation
-- [`vanity-eth.tk`](https://vanity-eth.tk/) ([source](https://github.com/bokub/vanity-eth))
-- [Vanity Eth generators @ `github.com`](https://github.com/search?q=eth+vanity)
+## Token swaps
+- ==[`1inch.exchange`](https://1inch.exchange/)==
+- ==[`debank.com/swap`](https://debank.com/swap)==
+- ==[`dexindex.io`](https://dexindex.io/)==
 
 ## Financial metrics
 - [`ethdashboard.com`](https://ethdashboard.com/)
@@ -132,7 +139,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Compound
 - [`stat.farm`](https://stat.farm/) ([source](https://github.com/Anish-Agnihotri/stat.farm))
 - [`divided.house`](https://divided.house/) - governance proposals
-- ==[`deflast.finance`](https://deflast.finance/) - Instantly swap your collateral==
+- [`deflast.finance`](https://deflast.finance/) - Instantly swap your collateral
 
 ### CryptoKitties
 - [`kittysales.herokuapp.com`](https://kittysales.herokuapp.com/)
@@ -142,6 +149,9 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ### dYdX
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)[^dydx-da-src]
+
+### Keep
+- ==[`explorer.keep-grants.info`](https://explorer.keep-grants.info/)==
 
 ### Kleros
 - [`kleroscan.com`](http://kleroscan.com/)
@@ -182,7 +192,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Synthetix
 - [`snx.tools`](https://snx.tools/)
 - [`synthetixstats.com`](https://synthetixstats.com/)
-- ==[`sips.synthetix.io`](https://sips.synthetix.io/) - Synthetix Improvement Proposals==
+- [`sips.synthetix.io`](https://sips.synthetix.io/) - Synthetix Improvement Proposals
 - [`synthetix.community`](https://synthetix.community/) - docs, guides
 
 ### TokenSets
@@ -197,11 +207,14 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
-- ==[`yam.zippo.io`](https://yam.zippo.io/)[^yam-zippo-src]==
-- ==[`yam.tools`](https://yam.tools/)==
+- [`yam.zippo.io`](https://yam.zippo.io/)[^yam-zippo-src]
+- [`yam.tools`](https://yam.tools/)
+- ==[`yam.chainwiki.dev`](https://yam.chainwiki.dev/)==
+- ==[`duneanalytics.com/yam`](http://duneanalytics.com/yam)==
 
 ### Yearn
-- ==[`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum==
+- ==[`yfi.fyi`](http://yfi.fyi) - Index of services==
+- [`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
 
 ## Books
@@ -224,7 +237,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`beaconscan.com`](https://beaconscan.com/)
 - [`eth2stats.io`](https://eth2stats.io/)
 - [Ethereum 2.0 @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
-- ==[Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)==
+- [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 
 ## Fun
 - [`feedvitalik.com`](https://feedvitalik.com/)
