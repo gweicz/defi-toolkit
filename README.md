@@ -24,7 +24,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Security
 - [`defiscore.io`](https://defiscore.io/) - risk score of DeFi platforms
 - [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
-- ==[`defisafety.com`](http://defisafety.com/)== - safety ranking
+- ==[`defisafety.com`](http://defisafety.com/) - safety ranking==
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
 
 ## Network status
@@ -60,7 +60,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 
 ## Account & private key
-- ==[`iancoleman.io/bip39`](https://iancoleman.io/bip39/) - BIP39 derivation (mnemonic)==
+- [`iancoleman.io/bip39`](https://iancoleman.io/bip39/) - BIP39 derivation (mnemonic)
 - [`vanity-eth.tk`](https://vanity-eth.tk/) ([source](https://github.com/bokub/vanity-eth))
 - [Vanity Eth generators @ `github.com`](https://github.com/search?q=eth+vanity)
 
@@ -71,26 +71,29 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`furucombo.app`](https://furucombo.app/)
 - [`bulksender.app`](https://bulksender.app/)
 
+## Automation
+- [`hal.xyz`](https://www.hal.xyz/)
+
+## Allowances
+- ==[`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker==
+
 ## Portfolio trackers
 - :star:[`zapper.fi`](https://www.zapper.fi/)
 - :star:[`zerion.io`](https://app.zerion.io/)
 - [`debank.com`](https://debank.com/)
 
 ## Token swaps
-- ==[`1inch.exchange`](https://1inch.exchange/)==
-- ==[`debank.com/swap`](https://debank.com/swap)==
-- ==[`dexindex.io`](https://dexindex.io/)==
+- [`1inch.exchange`](https://1inch.exchange/)
+- [`debank.com/swap`](https://debank.com/swap)
+- [`dexindex.io`](https://dexindex.io/)
 
 ## Financial metrics
 - [`ethdashboard.com`](https://ethdashboard.com/)
 - [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
-- [DEX statistics @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7)
+- [`duneanalytics.com/dex`](https://duneanalytics.com/dex)
 
 ## Communication
 - [`ethmail.cc`](https://ethmail.cc/) - mailbox for all people who have Ethereum wallet
-
-## Automation
-- [`hal.xyz`](https://www.hal.xyz/)
 
 ## Prediction-markets
 - [`predictions.exchange`](https://www.predictions.exchange/) - list of markets (Augur, Omen, Flux in future)
@@ -115,6 +118,9 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Social Money
 - [List of social tokens @ `forefront.news`](https://forefront.news/market/)[^forefront-src]
 
+## Contract inspection
+- ==[Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)[^diffchecker-src]==
+
 ## Protocols
 
 ### 0x
@@ -123,7 +129,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Aave
 - [`aavewatch.now.sh`](https://aavewatch.now.sh/)
 - [`aave-futuristic-dashboard.now.sh`](https://aave-futuristic-dashboard.now.sh/)
-- ==[`governance.aave.com`](https://governance.aave.com/) - Governance forum==
+- [`governance.aave.com`](https://governance.aave.com/) - Governance forum
 - ["The Aavesome List"](https://github.com/marczeller/Aavesome-list)
 
 ### Aragon
@@ -151,7 +157,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)[^dydx-da-src]
 
 ### Keep
-- ==[`explorer.keep-grants.info`](https://explorer.keep-grants.info/)==
+- [`explorer.keep-grants.info`](https://explorer.keep-grants.info/)
 
 ### Kleros
 - [`kleroscan.com`](http://kleroscan.com/)
@@ -203,14 +209,15 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`chartex.pro`](https://chartex.pro/?symbol=UNISWAP:DIA) - TradingView interface for low-caps
 - [`dextools.io`](https://www.dextools.io/app/uniswap/pool-explorer) - Pool/Pair Explorer
 - [`pools.fyi`](https://pools.fyi/)
+- ==[`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]==
 - ==[`beta.uniswap.info`](https://beta.uniswap.info)==
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
 - [`yam.zippo.io`](https://yam.zippo.io/)[^yam-zippo-src]
 - [`yam.tools`](https://yam.tools/)
-- ==[`yam.chainwiki.dev`](https://yam.chainwiki.dev/)==
-- ==[`duneanalytics.com/yam`](http://duneanalytics.com/yam)==
+- [`yam.chainwiki.dev`](https://yam.chainwiki.dev/)
+- [`duneanalytics.com/yam`](http://duneanalytics.com/yam)
 
 ### Yearn
 - ==[`yfi.fyi`](http://yfi.fyi) - Index of services==
@@ -265,3 +272,5 @@ Most important sources:
 [^yam-zippo-src]: https://twitter.com/zippoxer/status/1293342696531255302?s=2
 [^dydx-da-src]: https://twitter.com/DuneAnalytics/status/1237752192267882496
 [^gasnow-src]: https://twitter.com/sparkpool_eth/status/1293739552197103616
+[^tokenscan-src]: https://twitter.com/0xdev0/status/1296724941287563264
+[^diffchecker-src]: https://twitter.com/Weeb_Mcgee/status/1296189359650209795
