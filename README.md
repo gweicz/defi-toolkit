@@ -53,6 +53,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Gas Tools
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) - micro dapp
 - [`fees.wtf`](https://fees.wtf/) - calculate how much gas you spend
+- ==[`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]==
 
 ### Gas Tokens
 - [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - Introduction article
@@ -195,6 +196,9 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Omen
 - [`omenfarming.com`](https://omenfarming.com/)
 
+### Ren
+- ==[Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/hXk0g5BaYNrIfqKwuqXTiRDTqD4UAszmoGzebIlV)==
+
 ### Synthetix
 - [`snx.tools`](https://snx.tools/)
 - [`synthetixstats.com`](https://synthetixstats.com/)
@@ -274,3 +278,4 @@ Most important sources:
 [^gasnow-src]: https://twitter.com/sparkpool_eth/status/1293739552197103616
 [^tokenscan-src]: https://twitter.com/0xdev0/status/1296724941287563264
 [^diffchecker-src]: https://twitter.com/Weeb_Mcgee/status/1296189359650209795
+[^ethgaswatch-src]: https://twitter.com/wslyvh/status/1298274040574930945
