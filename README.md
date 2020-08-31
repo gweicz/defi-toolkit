@@ -24,7 +24,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Security
 - [`defiscore.io`](https://defiscore.io/) - risk score of DeFi platforms
 - [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
-- ==[`defisafety.com`](http://defisafety.com/) - safety ranking==
+- [`defisafety.com`](http://defisafety.com/) - safety ranking
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
 
 ## Network status
@@ -44,16 +44,18 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 - :star:[`ethgasstation.info`](https://ethgasstation.info/)
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
-- ==[`gasnow.org`](https://www.gasnow.org/) - forward-looking gas estimates (SparkPool)[^gasnow-src]==
+- [`gasnow.org`](https://www.gasnow.org/) - forward-looking gas estimates (SparkPool)[^gasnow-src]
 
 ### Historic Gas
-- [Ethereum TxPool Statistics](https://txpool.zengo.com/)
+- [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
+- [`txpool.zengo.com`](https://txpool.zengo.com/) - Ethereum TxPool Statistics
 - [Gas Prices Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)[^gas-dashboard-source]
 
 ### Gas Tools
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) - micro dapp
 - [`fees.wtf`](https://fees.wtf/) - calculate how much gas you spend
-- ==[`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]==
+- [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
+- ==[GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)==
 
 ### Gas Tokens
 - [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - Introduction article
@@ -76,7 +78,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`hal.xyz`](https://www.hal.xyz/)
 
 ## Allowances
-- ==[`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker==
+- [`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker
 
 ## Portfolio trackers
 - :star:[`zapper.fi`](https://www.zapper.fi/)
@@ -112,6 +114,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ## Yield Farming
 - [`yieldfarming.info`](https://yieldfarming.info/)
+- [`yieldfarmingtools.com`](https://yieldfarmingtools.com/)
 
 ## Layer 2
 - ["Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework"](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
@@ -120,7 +123,10 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [List of social tokens @ `forefront.news`](https://forefront.news/market/)[^forefront-src]
 
 ## Contract inspection
-- ==[Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)[^diffchecker-src]==
+- [Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)[^diffchecker-src]
+
+## Governance
+- [`snapshot.page`](https://snapshot.page/) - yEarn and YAM governance
 
 ## Protocols
 
@@ -197,7 +203,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`omenfarming.com`](https://omenfarming.com/)
 
 ### Ren
-- ==[Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/hXk0g5BaYNrIfqKwuqXTiRDTqD4UAszmoGzebIlV)==
+- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/hXk0g5BaYNrIfqKwuqXTiRDTqD4UAszmoGzebIlV)
 
 ### Synthetix
 - [`snx.tools`](https://snx.tools/)
@@ -213,8 +219,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`chartex.pro`](https://chartex.pro/?symbol=UNISWAP:DIA) - TradingView interface for low-caps
 - [`dextools.io`](https://www.dextools.io/app/uniswap/pool-explorer) - Pool/Pair Explorer
 - [`pools.fyi`](https://pools.fyi/)
-- ==[`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]==
-- ==[`beta.uniswap.info`](https://beta.uniswap.info)==
+- [`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
@@ -225,6 +230,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ### Yearn
 - ==[`yfi.fyi`](http://yfi.fyi) - Index of services==
+- ==[`py-earn.herokuapp.com`](https://py-earn.herokuapp.com/)==
 - [`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
 
