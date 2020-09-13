@@ -55,16 +55,18 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) - micro dapp
 - [`fees.wtf`](https://fees.wtf/) - calculate how much gas you spend
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
-- ==[GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)==
+- [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
 
 ### Gas Tokens
-- [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - Introduction article
+- :star: [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - everything you wanted to know
+- ==[GasToken Miner](https://forum.saturn.network/t/how-to-use-gastoken-miner/2433) - script for mining GST1, GST2, CHI==
 - [Automated buying of Chi Tokens @ `hal.xyz`](https://9000.hal.xyz/recipes/1inch-buy-chi-token)
 
 
 ## Account & private key
 - [`iancoleman.io/bip39`](https://iancoleman.io/bip39/) - BIP39 derivation (mnemonic)
-- [`vanity-eth.tk`](https://vanity-eth.tk/) ([source](https://github.com/bokub/vanity-eth))
+- [profanity](https://github.com/johguse/profanity) - high performance vanity generator (incl. GPU)
+- [`vanity-eth.tk`](https://vanity-eth.tk/) ([source](https://github.com/bokub/vanity-eth)) - web variant
 - [Vanity Eth generators @ `github.com`](https://github.com/search?q=eth+vanity)
 
 ## Wallets
@@ -72,6 +74,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ## Custom transactions
 - [`furucombo.app`](https://furucombo.app/)
+- [`disperse.app`](https://disperse.app/) - distribute ether or tokens to multiple addresses
 - [`bulksender.app`](https://bulksender.app/)
 
 ## Automation
@@ -98,6 +101,9 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Communication
 - [`ethmail.cc`](https://ethmail.cc/) - mailbox for all people who have Ethereum wallet
 
+## Mempool Data
+- [`Blocknative.com`](https://blocknative.com/) - a composable mempool data platofrm. Watch any address for real-time status updates
+
 ## Prediction-markets
 - [`predictions.exchange`](https://www.predictions.exchange/) - list of markets (Augur, Omen, Flux in future)
 
@@ -113,6 +119,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [BTC on ETH Graph @ `predictions.exchange`](http://www.predictions.exchange/ethbtc/)
 
 ## Yield Farming
+- ==[Yield Farms @ `etherscan.io`](http://etherscan.io/yieldfarms)==
 - [`yieldfarming.info`](https://yieldfarming.info/)
 - [`yieldfarmingtools.com`](https://yieldfarmingtools.com/)
 
@@ -205,7 +212,11 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Ren
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/hXk0g5BaYNrIfqKwuqXTiRDTqD4UAszmoGzebIlV)
 
+### SushiSwap
+- ==[`sushi.zippo.io`](https://sushi.zippo.io/)==
+
 ### Synthetix
+- [snx.link](https://snx.link/) - cheaper trading thanks to [Gas Tokens](#Gas-Tokens)
 - [`snx.tools`](https://snx.tools/)
 - [`synthetixstats.com`](https://synthetixstats.com/)
 - [`sips.synthetix.io`](https://sips.synthetix.io/) - Synthetix Improvement Proposals
@@ -229,8 +240,8 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`duneanalytics.com/yam`](http://duneanalytics.com/yam)
 
 ### Yearn
-- ==[`yfi.fyi`](http://yfi.fyi) - Index of services==
-- ==[`py-earn.herokuapp.com`](https://py-earn.herokuapp.com/)==
+- [`yfi.fyi`](http://yfi.fyi) - Index of services==
+- [`py-earn.herokuapp.com`](https://py-earn.herokuapp.com/)
 - [`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
 
@@ -281,7 +292,7 @@ Most important sources:
 [^forefront-src]: https://twitter.com/carlosecgomes/status/1293215171729530880
 [^yam-zippo-src]: https://twitter.com/zippoxer/status/1293342696531255302?s=2
 [^dydx-da-src]: https://twitter.com/DuneAnalytics/status/1237752192267882496
-[^gasnow-src]: https://twitter.com/sparkpool_eth/status/1293739552197103616
+[^now-src]: https://twitter.com/sparkpool_eth/status/1293739552197103616
 [^tokenscan-src]: https://twitter.com/0xdev0/status/1296724941287563264
 [^diffchecker-src]: https://twitter.com/Weeb_Mcgee/status/1296189359650209795
 [^ethgaswatch-src]: https://twitter.com/wslyvh/status/1298274040574930945
