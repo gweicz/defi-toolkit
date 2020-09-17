@@ -27,14 +27,17 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`defisafety.com`](http://defisafety.com/) - safety ranking
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
 
-## Network status
+## Network Status
 - [`ethernodes.org`](https://ethernodes.org/)
 - [`ethstats.io`](https://ethstats.io/)
 
-## Blocks & transactions
+## Blocks & Transactions
 - :star:[`etherscan.io`](http://etherscan.io/)
 - [`ethviewer.live`](http://www.ethviewer.live/)
 - [Transaction visualizer @ `TxStreet.com`](https://txstreet.com/v/eth)
+
+## Wallets
+- ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
 
 <!-- ## Supply
 - [ethsupply](https://github.com/madumas/ethsupply) - calculates the total amount of Eth ever issued[^ethsupply-source]
@@ -52,7 +55,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Gas Prices Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)[^gas-dashboard-source]
 
 ### Gas Tools
-- [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) - micro dapp
+- [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) ([source](https://github.com/mds1/Cancel-Ethereum-Transactions)) - micro dapp
 - [`fees.wtf`](https://fees.wtf/) - calculate how much gas you spend
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
@@ -63,19 +66,27 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Automated buying of Chi Tokens @ `hal.xyz`](https://9000.hal.xyz/recipes/1inch-buy-chi-token)
 
 
-## Account & private key
+## Private Key & Address
 - [`iancoleman.io/bip39`](https://iancoleman.io/bip39/) - BIP39 derivation (mnemonic)
 - [profanity](https://github.com/johguse/profanity) - high performance vanity generator (incl. GPU)
 - [`vanity-eth.tk`](https://vanity-eth.tk/) ([source](https://github.com/bokub/vanity-eth)) - web variant
 - [Vanity Eth generators @ `github.com`](https://github.com/search?q=eth+vanity)
 
-## Wallets
-- ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
+## Recovery
+- ==[`findeth.io`](https://findeth.io/) - find your lost Ether or address==
 
-## Custom transactions
-- [`furucombo.app`](https://furucombo.app/)
+## Meta Transactions
+- [`furucombo.app`](https://furucombo.app/) - transaction "combo"
 - [`disperse.app`](https://disperse.app/) - distribute ether or tokens to multiple addresses
 - [`bulksender.app`](https://bulksender.app/)
+- ==[erc20-meta-token](https://github.com/arcadeum/erc20-meta-token) - wrapper for meta-transaction with any ERC-20==
+
+## Custom Transactions
+- [Send Offline Helper](https://www.myetherwallet.com/send-offline-helper)
+- [Broadcast Raw Transaction @ `etherscan.io`](https://etherscan.io/pushTx)
+- [Get Raw Transaction Hex @ `etherscan.io`](https://etherscan.io/getRawTx?tx=0xeb20185d7be6012b4753d17707b0f776511c4db3ecf65ad7dbdc660964e0864f)
+- [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder/) ([source](https://github.com/antoncoding/eth-tx-decoder)) - decode raw transaction
+- [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder) ([source](https://github.com/miguelmota/ethereum-input-data-decoder))
 
 ## Automation
 - [`hal.xyz`](https://www.hal.xyz/)
@@ -83,17 +94,17 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Allowances
 - [`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker
 
-## Portfolio trackers
+## Portfolio Trackers
 - :star:[`zapper.fi`](https://www.zapper.fi/)
 - :star:[`zerion.io`](https://app.zerion.io/)
 - [`debank.com`](https://debank.com/)
 
-## Token swaps
+## Token Swaps
 - [`1inch.exchange`](https://1inch.exchange/)
 - [`debank.com/swap`](https://debank.com/swap)
 - [`dexindex.io`](https://dexindex.io/)
 
-## Financial metrics
+## Financial Metrics
 - [`ethdashboard.com`](https://ethdashboard.com/)
 - [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
 - [`duneanalytics.com/dex`](https://duneanalytics.com/dex)
@@ -104,7 +115,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Mempool Data
 - [`Blocknative.com`](https://blocknative.com/) - a composable mempool data platofrm. Watch any address for real-time status updates
 
-## Prediction-markets
+## Prediction Markets
 - [`predictions.exchange`](https://www.predictions.exchange/) - list of markets (Augur, Omen, Flux in future)
 
 ## Oracles
@@ -129,7 +140,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## Social Money
 - [List of social tokens @ `forefront.news`](https://forefront.news/market/)[^forefront-src]
 
-## Contract inspection
+## Contract Inspection
 - [Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)[^diffchecker-src]
 
 ## Governance
@@ -231,6 +242,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`dextools.io`](https://www.dextools.io/app/uniswap/pool-explorer) - Pool/Pair Explorer
 - [`pools.fyi`](https://pools.fyi/)
 - [`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]
+- ==[`duneanalytics.com/uni`](https://duneanalytics.com/uni) - UNI token claims==
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
@@ -240,7 +252,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`duneanalytics.com/yam`](http://duneanalytics.com/yam)
 
 ### Yearn
-- [`yfi.fyi`](http://yfi.fyi) - Index of services==
+- [`yfi.fyi`](http://yfi.fyi) - Index of services
 - [`py-earn.herokuapp.com`](https://py-earn.herokuapp.com/)
 - [`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
@@ -268,7 +280,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 
 ## Fun
-- [`feedvitalik.com`](https://feedvitalik.com/)
+- [`feedvitalik.com`](https://feedvitalik.com/) ([source](https://github.com/bford21/FeedVitalik))
 
 
 ---
