@@ -62,8 +62,9 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ### Gas Tokens
 - :star: [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - everything you wanted to know
-- ==[GasToken Miner](https://forum.saturn.network/t/how-to-use-gastoken-miner/2433) - script for mining GST1, GST2, CHI==
+- [GasToken Miner](https://forum.saturn.network/t/how-to-use-gastoken-miner/2433) - script for mining GST1, GST2, CHI
 - [Automated buying of Chi Tokens @ `hal.xyz`](https://9000.hal.xyz/recipes/1inch-buy-chi-token)
+- ==[Liquid Gas Token ($LGT) Exchange](https://lgt.exchange/) ([whitepaper](https://github.com/matnad/liquid-gas-token/blob/master/thesis/LiquidGasToken_Nadler2020.pdf))==
 
 
 ## Private Key & Address
@@ -73,7 +74,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Vanity Eth generators @ `github.com`](https://github.com/search?q=eth+vanity)
 
 ## Recovery
-- ==[`findeth.io`](https://findeth.io/) - find your lost Ether or address==
+- [`findeth.io`](https://findeth.io/) - find your lost Ether or address
 
 ## Meta Transactions
 - [`furucombo.app`](https://furucombo.app/) - transaction "combo"
@@ -128,9 +129,10 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## BTC on Ethereum
 - [`btconethereum.com`](https://btconethereum.com/)
 - [BTC on ETH Graph @ `predictions.exchange`](http://www.predictions.exchange/ethbtc/)
+- ==[BTC on Ethereum @ `dunenalytics.com`](https://explore.duneanalytics.com/public/dashboards/ffM8FLsAcRYLcGc0JdaoU6oLOk8ThGXZ9cJ1XKJn)==
 
 ## Yield Farming
-- ==[Yield Farms @ `etherscan.io`](http://etherscan.io/yieldfarms)==
+- [Yield Farms @ `etherscan.io`](http://etherscan.io/yieldfarms)
 - [`yieldfarming.info`](https://yieldfarming.info/)
 - [`yieldfarmingtools.com`](https://yieldfarmingtools.com/)
 
@@ -243,6 +245,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`pools.fyi`](https://pools.fyi/)
 - [`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]
 - ==[`duneanalytics.com/uni`](https://duneanalytics.com/uni) - UNI token claims==
+- ==[Lost $UNI statistics @ `duneanalytics.com`](https://explore.duneanalytics.com/dashboard/uni-lost-tokens) [needs login]==
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
