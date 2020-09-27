@@ -11,10 +11,16 @@ image: https://i.imgur.com/r48kTSf.png
 
 Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
+## Legend
+
 | Link | Legend |
 | -------- | -------- |
 | :star:Item | must-have |
 | ==Item== | newly added |
+
+## Table of Contents
+
+[TOC]
 
 ## Documentation
 - :star:[`docs.ethhub.io`](https://docs.ethhub.io/)
@@ -35,6 +41,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - :star:[`etherscan.io`](http://etherscan.io/)
 - [`ethviewer.live`](http://www.ethviewer.live/)
 - [Transaction visualizer @ `TxStreet.com`](https://txstreet.com/v/eth)
+- ==[Transaction Reverts @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/1dzncvBWwkFYvbYSMXbubJNCupAGFWU9hJmxja7r)==
 
 ## Wallets
 - ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
@@ -48,6 +55,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - :star:[`ethgasstation.info`](https://ethgasstation.info/)
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
 - [`gasnow.org`](https://www.gasnow.org/) - forward-looking gas estimates (SparkPool)[^gasnow-src]
+- [`ethgas.watch`](https://ethgas.watch/) - agreggator
 
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
@@ -57,6 +65,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Gas Tools
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) ([source](https://github.com/mds1/Cancel-Ethereum-Transactions)) - micro dapp
 - [`fees.wtf`](https://fees.wtf/) - calculate how much gas you spend
+- ==[`txn.finance`](https://txn.finance/) - spend gas statistics[^txn-finance-src]==
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
 
@@ -129,12 +138,14 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ## BTC on Ethereum
 - [`btconethereum.com`](https://btconethereum.com/)
 - [BTC on ETH Graph @ `predictions.exchange`](http://www.predictions.exchange/ethbtc/)
-- ==[BTC on Ethereum @ `dunenalytics.com`](https://explore.duneanalytics.com/public/dashboards/ffM8FLsAcRYLcGc0JdaoU6oLOk8ThGXZ9cJ1XKJn)==
+- [BTC on Ethereum @ `dunenalytics.com`](https://explore.duneanalytics.com/public/dashboards/ffM8FLsAcRYLcGc0JdaoU6oLOk8ThGXZ9cJ1XKJn)
 
 ## Yield Farming
+- ==[Yield Farms @ `coingecko.com`](https://www.coingecko.com/en/yield-farming)==
 - [Yield Farms @ `etherscan.io`](http://etherscan.io/yieldfarms)
 - [`yieldfarming.info`](https://yieldfarming.info/)
 - [`yieldfarmingtools.com`](https://yieldfarmingtools.com/)
+- ==[`vfat.tools`](https://vfat.tools/)==
 
 ## Layer 2
 - ["Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework"](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
@@ -221,12 +232,16 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ### Omen
 - [`omenfarming.com`](https://omenfarming.com/)
+- [Omen Stats @ `duneanalytics.com`](https://explore.duneanalytics.com/dashboard/omen-stats) [needs login]
+
+### Opyn
+- ==[`opynmonitor.xyz`](https://opynmonitor.xyz/)==
 
 ### Ren
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/hXk0g5BaYNrIfqKwuqXTiRDTqD4UAszmoGzebIlV)
 
 ### SushiSwap
-- ==[`sushi.zippo.io`](https://sushi.zippo.io/)==
+- [`sushi.zippo.io`](https://sushi.zippo.io/)
 
 ### Synthetix
 - [snx.link](https://snx.link/) - cheaper trading thanks to [Gas Tokens](#Gas-Tokens)
@@ -234,6 +249,11 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`synthetixstats.com`](https://synthetixstats.com/)
 - [`sips.synthetix.io`](https://sips.synthetix.io/) - Synthetix Improvement Proposals
 - [`synthetix.community`](https://synthetix.community/) - docs, guides
+
+### THORChain
+- ==[`thorchain.help`](https://thorchain.help/)==
+- ==[`leaderboard.thornode.org`](https://leaderboard.thornode.org)==
+- ==[Pool pricing calculator](http://51.75.201.139/clp/)==
 
 ### TokenSets
 - [`tokenviz.io`](https://tokenviz.io/)
@@ -253,6 +273,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`yam.tools`](https://yam.tools/)
 - [`yam.chainwiki.dev`](https://yam.chainwiki.dev/)
 - [`duneanalytics.com/yam`](http://duneanalytics.com/yam)
+- ==[`treasury.vision`](https://treasury.vision/)==
 
 ### Yearn
 - [`yfi.fyi`](http://yfi.fyi) - Index of services
@@ -307,7 +328,8 @@ Most important sources:
 [^forefront-src]: https://twitter.com/carlosecgomes/status/1293215171729530880
 [^yam-zippo-src]: https://twitter.com/zippoxer/status/1293342696531255302?s=2
 [^dydx-da-src]: https://twitter.com/DuneAnalytics/status/1237752192267882496
-[^now-src]: https://twitter.com/sparkpool_eth/status/1293739552197103616
+[^gasnow-src]: https://twitter.com/sparkpool_eth/status/1293739552197103616
 [^tokenscan-src]: https://twitter.com/0xdev0/status/1296724941287563264
 [^diffchecker-src]: https://twitter.com/Weeb_Mcgee/status/1296189359650209795
 [^ethgaswatch-src]: https://twitter.com/wslyvh/status/1298274040574930945
+[^txn-finance-src]: https://twitter.com/tansawit/status/1308374889082974208
