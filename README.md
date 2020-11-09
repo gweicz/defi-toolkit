@@ -42,7 +42,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`ethviewer.live`](http://www.ethviewer.live/)
 - [Transaction visualizer @ `TxStreet.com`](https://txstreet.com/v/eth)
 - [Transaction Reverts @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/1dzncvBWwkFYvbYSMXbubJNCupAGFWU9hJmxja7r)
-- ==[`ethtx.info`](https://ethtx.info/)==
+- [`ethtx.info`](https://ethtx.info/)
 
 ## Wallets
 - ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
@@ -68,7 +68,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 ### Gas Tools
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) ([source](https://github.com/mds1/Cancel-Ethereum-Transactions)) - micro dapp
 - [`fees.wtf`](https://fees.wtf/) - calculate how much gas you spend
-- ==[`txn.finance`](https://txn.finance/) - spend gas statistics[^txn-finance-src]==
+- [`txn.finance`](https://txn.finance/) - spend gas statistics[^txn-finance-src]
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
 
@@ -92,7 +92,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`furucombo.app`](https://furucombo.app/) - transaction "combo"
 - [`disperse.app`](https://disperse.app/) - distribute ether or tokens to multiple addresses
 - [`bulksender.app`](https://bulksender.app/)
-- ==[erc20-meta-token](https://github.com/arcadeum/erc20-meta-token) - wrapper for meta-transaction with any ERC-20==
+- [erc20-meta-token](https://github.com/arcadeum/erc20-meta-token) - wrapper for meta-transaction with any ERC-20
 
 ## Custom Transactions
 - [Send Offline Helper](https://www.myetherwallet.com/send-offline-helper)
@@ -106,22 +106,28 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ## Allowances
 - [`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker
-- ==[`revoke.cash`](https://revoke.cash/)==
+- [`revoke.cash`](https://revoke.cash/)
 
 ## Portfolio Trackers
 - :star:[`zapper.fi`](https://www.zapper.fi/)
 - :star:[`zerion.io`](https://app.zerion.io/)
 - [`debank.com`](https://debank.com/)
 
+## Financial Metrics (Dashboards)
+- [`ethdashboard.com`](https://ethdashboard.com/)
+- ==[DeFi Insight @ `intotheblock.com`](https://app.intotheblock.com/insights/defi/charts)==
+- [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
+- [`duneanalytics.com/dex`](https://duneanalytics.com/dex)
+
+## TVL (Total Value Locked)
+- [`defipulse.com`](https://defipulse.com/)
+- ==[`defillama.com`](https://defillama.com/home)==
+- [`defimarketcap.io`](https://defimarketcap.io/)
+
 ## Token Swaps
 - [`1inch.exchange`](https://1inch.exchange/)
 - [`debank.com/swap`](https://debank.com/swap)
 - [`dexindex.io`](https://dexindex.io/)
-
-## Financial Metrics
-- [`ethdashboard.com`](https://ethdashboard.com/)
-- [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
-- [`duneanalytics.com/dex`](https://duneanalytics.com/dex)
 
 ## Communication
 - [`ethmail.cc`](https://ethmail.cc/) - mailbox for all people who have Ethereum wallet
@@ -131,6 +137,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ## Prediction Markets
 - [`predictions.exchange`](https://www.predictions.exchange/) - list of markets (Augur, Omen, Flux in future)
+- ==[`predictionexplorer.com`](https://predictionexplorer.com)==
 
 ## Oracles
 - [`oracles.club`](https://oracles.club/) - overview of all oracles (Maker, Chainlink, ..)
@@ -270,6 +277,8 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]
 - [`duneanalytics.com/uni`](https://duneanalytics.com/uni) - UNI token claims
 - [Lost $UNI statistics @ `duneanalytics.com`](https://explore.duneanalytics.com/dashboard/uni-lost-tokens) [needs login]
+- ==[Permanent Loss™](https://permanentloss.app//)==
+- ==[Impermanent Loss Calculator](https://chitty27.pythonanywhere.com/)==
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
