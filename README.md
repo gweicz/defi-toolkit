@@ -11,6 +11,8 @@ image: https://i.imgur.com/r48kTSf.png
 
 Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
+Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-seznam-uzitecnych-nastroju/96) (in Czech language).
+
 ## Legend
 
 | Link | Legend |
@@ -33,9 +35,12 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`defisafety.com`](http://defisafety.com/) - safety ranking
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
 
-## Network Status
-- [`ethernodes.org`](https://ethernodes.org/)
+## Network & Nodes
 - [`ethstats.io`](https://ethstats.io/)
+- [`forkmon.ethdevops.io`](https://forkmon.ethdevops.io/) - fork monitor (nodes and latest consensus)
+- [`ethernodes.org`](https://ethernodes.org/) - node statistics
+- ==[`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes==
+
 
 ## Blocks & Transactions
 - :star:[`etherscan.io`](http://etherscan.io/)
@@ -59,6 +64,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
 - [`gasnow.org`](https://www.gasnow.org/) - forward-looking gas estimates (SparkPool)[^gasnow-src]
 - [`ethgas.watch`](https://ethgas.watch/) - agreggator
+- ==[`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider==
 
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
@@ -115,17 +121,18 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ## Financial Metrics (Dashboards)
 - [`ethdashboard.com`](https://ethdashboard.com/)
-- ==[DeFi Insight @ `intotheblock.com`](https://app.intotheblock.com/insights/defi/charts)==
+- [DeFi Insight @ `intotheblock.com`](https://app.intotheblock.com/insights/defi/charts)
 - [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
 - [`duneanalytics.com/dex`](https://duneanalytics.com/dex)
 
 ## TVL (Total Value Locked)
 - [`defipulse.com`](https://defipulse.com/)
-- ==[`defillama.com`](https://defillama.com/home)==
+- [`defillama.com`](https://defillama.com/home)
 - [`defimarketcap.io`](https://defimarketcap.io/)
 
 ## Token Swaps
 - [`1inch.exchange`](https://1inch.exchange/)
+- [`matcha.xyz`](https://matcha.xyz/)
 - [`debank.com/swap`](https://debank.com/swap)
 - [`dexindex.io`](https://dexindex.io/)
 
@@ -137,7 +144,7 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ## Prediction Markets
 - [`predictions.exchange`](https://www.predictions.exchange/) - list of markets (Augur, Omen, Flux in future)
-- ==[`predictionexplorer.com`](https://predictionexplorer.com)==
+- [`predictionexplorer.com`](https://predictionexplorer.com)
 
 ## Oracles
 - [`oracles.club`](https://oracles.club/) - overview of all oracles (Maker, Chainlink, ..)
@@ -166,6 +173,9 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 
 ## Contract Inspection
 - [Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)[^diffchecker-src]
+
+## Contract Interaction
+- [`ethcontract.watch`](https://ethcontract.watch/) - generates the UI from ABI
 
 ## Governance
 - [`snapshot.page`](https://snapshot.page/) - yEarn and YAM governance
@@ -277,8 +287,8 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]
 - [`duneanalytics.com/uni`](https://duneanalytics.com/uni) - UNI token claims
 - [Lost $UNI statistics @ `duneanalytics.com`](https://explore.duneanalytics.com/dashboard/uni-lost-tokens) [needs login]
-- ==[Permanent Loss™](https://permanentloss.app//)==
-- ==[Impermanent Loss Calculator](https://chitty27.pythonanywhere.com/)==
+- [Permanent Loss™](https://permanentloss.app//)
+- [Impermanent Loss Calculator](https://chitty27.pythonanywhere.com/)
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
@@ -310,11 +320,13 @@ Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 - [Projected Daily ETH Issuance @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/zrSKhqUarjkKrvfCgYjuPcUvW39R4ewxXZ3pwpWG)
 
 ## Ethereum 2.0
-- [`beaconcha.in`](https://beaconcha.in/)
+- :star: [`beaconcha.in`](https://beaconcha.in/)
 - [`beaconscan.com`](https://beaconscan.com/)
 - [`eth2stats.io`](https://eth2stats.io/)
 - [Ethereum 2.0 @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
 - [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
+- ==[`eth2-fork-mon.stokes.io`](https://eth2-fork-mon.stokes.io/) - Eth2 fork monitor==
+
 
 ## Fun
 - [`feedvitalik.com`](https://feedvitalik.com/) ([source](https://github.com/bford21/FeedVitalik))
