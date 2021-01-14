@@ -39,7 +39,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethstats.io`](https://ethstats.io/)
 - [`forkmon.ethdevops.io`](https://forkmon.ethdevops.io/) - fork monitor (nodes and latest consensus)
 - [`ethernodes.org`](https://ethernodes.org/) - node statistics
-- ==[`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes==
+- [`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes
 
 
 ## Blocks & Transactions
@@ -111,6 +111,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`hal.xyz`](https://www.hal.xyz/)
 
 ## Allowances
+- ==[Token Approvals @ `etherscan.io`](https://etherscan.io/tokenapprovalchecker)==
 - [`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker
 - [`revoke.cash`](https://revoke.cash/)
 
@@ -180,6 +181,11 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ## Governance
 - [`snapshot.page`](https://snapshot.page/) - yEarn and YAM governance
 
+## NFTs
+- [`cryptoart.io`](http://cryptoart.io/) - top artists and artworks
+- [`cryptoartpulse.com`](https://cryptoartpulse.com/)
+- [`nftfi.com`](https://nftfi.com/) - use your NFTs as loan collateral
+
 ## Protocols
 
 ### 0x
@@ -226,6 +232,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`daistats.com`](https://daistats.com/) - basic metrics (capitalizations, fees etc.)
 - [`catflip.co`](https://catflip.co/) - system params, changelog, voting
 - [Collateralization graphs @ `decipher.io`](http://makervaults.descipher.io/)
+- ==[`makerburn.com`](https://makerburn.com/)==
 
 #### DAI Peg
 - [`daipeg.com`](https://daipeg.com/) - DAI Trading charts
@@ -304,6 +311,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
 
+## Flippening
+- ==[`ratiogang.com`](https://ratiogang.com/)==
+
 ## Books
 - ["Mastering Ethereum" by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)
 - ["The Infinite Machine" by Camila Russo](https://www.harpercollins.com/products/the-infinite-machine-camila-russo)
@@ -325,7 +335,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`eth2stats.io`](https://eth2stats.io/)
 - [Ethereum 2.0 @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
 - [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
-- ==[`eth2-fork-mon.stokes.io`](https://eth2-fork-mon.stokes.io/) - Eth2 fork monitor==
+- [`eth2-fork-mon.stokes.io`](https://eth2-fork-mon.stokes.io/) - Eth2 fork monitor
 
 
 ## Fun
