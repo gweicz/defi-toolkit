@@ -34,6 +34,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
 - [`defisafety.com`](http://defisafety.com/) - safety ranking
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
+- ==[Blockchain Security DB by ConsenSys Diligence](https://consensys.github.io/blockchainSecurityDB/)==
 
 ## Network & Nodes
 - [`ethstats.io`](https://ethstats.io/)
@@ -51,6 +52,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Wallets
 - ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
+- [`sweeposaurus.com`](https://sweeposaurus.com/) - He'll make it easy to sweep all your tokens to a new address
 
 <!-- ## Supply
 - [ethsupply](https://github.com/madumas/ethsupply) - calculates the total amount of Eth ever issued[^ethsupply-source]
@@ -111,7 +113,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`hal.xyz`](https://www.hal.xyz/)
 
 ## Allowances
-- ==[Token Approvals @ `etherscan.io`](https://etherscan.io/tokenapprovalchecker)==
+- [Token Approvals @ `etherscan.io`](https://etherscan.io/tokenapprovalchecker)
 - [`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker
 - [`revoke.cash`](https://revoke.cash/)
 
@@ -186,6 +188,10 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`cryptoartpulse.com`](https://cryptoartpulse.com/)
 - [`nftfi.com`](https://nftfi.com/) - use your NFTs as loan collateral
 
+## Token Claims
+
+- ==[`claimable.vercel.app`](https://claimable.vercel.app/) - Airdrops and POAPs for claim==
+
 ## Protocols
 
 ### 0x
@@ -232,7 +238,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`daistats.com`](https://daistats.com/) - basic metrics (capitalizations, fees etc.)
 - [`catflip.co`](https://catflip.co/) - system params, changelog, voting
 - [Collateralization graphs @ `decipher.io`](http://makervaults.descipher.io/)
-- ==[`makerburn.com`](https://makerburn.com/)==
+- [`makerburn.com`](https://makerburn.com/)
 
 #### DAI Peg
 - [`daipeg.com`](https://daipeg.com/) - DAI Trading charts
@@ -312,7 +318,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
 
 ## Flippening
-- ==[`ratiogang.com`](https://ratiogang.com/)==
+- [`flippening.watch`](https://www.flippening.watch/)
+- ==[`ratiogang.com`](https://ratiogang.com/)
+- ==[`money-movers.info`](https://money-movers.info/)
 
 ## Books
 - ["Mastering Ethereum" by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)
