@@ -34,13 +34,14 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`defiwatch.net`](https://defiwatch.net/) - admin keys, project reviews
 - [`defisafety.com`](http://defisafety.com/) - safety ranking
 - [`crypto51.app`](https://www.crypto51.app/) - 51% attack cost
-- ==[Blockchain Security DB by ConsenSys Diligence](https://consensys.github.io/blockchainSecurityDB/)==
+- [Blockchain Security DB by ConsenSys Diligence](https://consensys.github.io/blockchainSecurityDB/)
 
 ## Network & Nodes
 - [`ethstats.io`](https://ethstats.io/)
 - [`forkmon.ethdevops.io`](https://forkmon.ethdevops.io/) - fork monitor (nodes and latest consensus)
 - [`ethernodes.org`](https://ethernodes.org/) - node statistics
 - [`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes
+- ==[`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)==
 
 
 ## Blocks & Transactions
@@ -66,7 +67,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
 - [`gasnow.org`](https://www.gasnow.org/) - forward-looking gas estimates (SparkPool)[^gasnow-src]
 - [`ethgas.watch`](https://ethgas.watch/) - agreggator
-- ==[`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider==
+- [`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider
 
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
@@ -116,6 +117,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Token Approvals @ `etherscan.io`](https://etherscan.io/tokenapprovalchecker)
 - [`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker
 - [`revoke.cash`](https://revoke.cash/)
+- ==[`approved.zone`](https://approved.zone/)==
 
 ## Portfolio Trackers
 - :star:[`zapper.fi`](https://www.zapper.fi/)
@@ -190,7 +192,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Token Claims
 
-- ==[`claimable.vercel.app`](https://claimable.vercel.app/) - Airdrops and POAPs for claim==
+- ==[`earni.fi`](https://earni.fi/) - Find which airdrops and POAPs are waiting for you to claim==
 
 ## Protocols
 
@@ -226,6 +228,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ### dYdX
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)[^dydx-da-src]
+
+### Indexed Finance
+- ==[Dashboard @ `duneanalytics.com`](https://duneanalytics.com/0xBoxer/indexed-finance_3)==
 
 ### Keep
 - [`explorer.keep-grants.info`](https://explorer.keep-grants.info/)
@@ -319,8 +324,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Flippening
 - [`flippening.watch`](https://www.flippening.watch/)
-- ==[`ratiogang.com`](https://ratiogang.com/)
-- ==[`money-movers.info`](https://money-movers.info/)
+- [`ratiogang.com`](https://ratiogang.com/)
+- [`money-movers.info`](https://money-movers.info/)
 
 ## Books
 - ["Mastering Ethereum" by Andreas M. Antonopoulos and Gavin Wood](https://ethereumbook.info/)
