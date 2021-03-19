@@ -332,10 +332,14 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - ["The Infinite Machine" by Camila Russo](https://www.harpercollins.com/products/the-infinite-machine-camila-russo)
 
 ## Newsletters
-- [The Daily Gwei](https://thedailygwei.substack.com/)
+- [The Daily Gwei](https://thedailygwei.substack.com/) ([Youtube](https://www.youtube.com/channel/UCvCp6vKY5jDr87htKH6hgDA))
 - [Today in DeFi](https://todayindefi.substack.com/)
 - [Week In Ethereum](https://weekinethereum.substack.com/)
 - [Bankless](http://bankless.substack.com/)
+- [The Defiant](https://thedefiant.substack.com/) ([Youtube](https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg))
+
+## Programming
+- [ETH.Build](https://eth.build/)
 
 ## Research
 
