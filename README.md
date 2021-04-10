@@ -41,7 +41,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`forkmon.ethdevops.io`](https://forkmon.ethdevops.io/) - fork monitor (nodes and latest consensus)
 - [`ethernodes.org`](https://ethernodes.org/) - node statistics
 - [`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes
-- ==[`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)==
+- [`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)
 
 
 ## Blocks & Transactions
@@ -117,7 +117,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Token Approvals @ `etherscan.io`](https://etherscan.io/tokenapprovalchecker)
 - [`tac.dappstar.io`](https://tac.dappstar.io/) - Token Allowance Checker
 - [`revoke.cash`](https://revoke.cash/)
-- ==[`approved.zone`](https://approved.zone/)==
+- [`approved.zone`](https://approved.zone/)
 
 ## Portfolio Trackers
 - :star:[`zapper.fi`](https://www.zapper.fi/)
@@ -171,6 +171,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`vfat.tools`](https://vfat.tools/)
 
 ## Layer 2
+- ==[`l2beat.com`](https://www.l2beat.com/) - list of L2s, TVL statistics==
 - ["Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework"](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
 
 ## Social Money
@@ -189,10 +190,16 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`cryptoart.io`](http://cryptoart.io/) - top artists and artworks
 - [`cryptoartpulse.com`](https://cryptoartpulse.com/)
 - [`nftfi.com`](https://nftfi.com/) - use your NFTs as loan collateral
+- [`pumpmygas.xyz`](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces for creators, buyers, and sellers Fuel pump
 
-## Token Claims
+## Token Claims (Airdrops)
 
-- ==[`earni.fi`](https://earni.fi/) - Find which airdrops and POAPs are waiting for you to claim==
+- [`earni.fi`](https://earni.fi/) - Find which airdrops and POAPs are waiting for you to claim
+- ==[Airdrops @ `etherscan.io`](https://etherscan.io/airdrops)==
+
+## MEV (Miner Extractable Value)
+- ==[`flashbots.net`](flashbots.net)==
+- ==[`explore.flashbots.net`](https://explore.flashbots.net/) - Flashbots MEV statistics==
 
 ## Protocols
 
@@ -230,7 +237,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)[^dydx-da-src]
 
 ### Indexed Finance
-- ==[Dashboard @ `duneanalytics.com`](https://duneanalytics.com/0xBoxer/indexed-finance_3)==
+- [Dashboard @ `duneanalytics.com`](https://duneanalytics.com/0xBoxer/indexed-finance_3)
 
 ### Keep
 - [`explorer.keep-grants.info`](https://explorer.keep-grants.info/)
