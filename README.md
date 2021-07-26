@@ -42,6 +42,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethernodes.org`](https://ethernodes.org/) - node statistics
 - [`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes
 - [`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)
+- ==[`chainid.link`](https://chainid.link/?network=optimism)==
 
 
 ## Blocks & Transactions
@@ -49,6 +50,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethviewer.live`](http://www.ethviewer.live/)
 - [Transaction visualizer @ `TxStreet.com`](https://txstreet.com/v/eth)
 - [Transaction Reverts @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/1dzncvBWwkFYvbYSMXbubJNCupAGFWU9hJmxja7r)
+- [Anyblock Explorer @ `anyblockanalytics.com`](https://explorer.anyblock.tools/)
 - [`ethtx.info`](https://ethtx.info/)
 
 ## Wallets
@@ -73,6 +75,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
 - [`txpool.zengo.com`](https://txpool.zengo.com/) - Ethereum TxPool Statistics
 - [Gas Prices Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)[^gas-dashboard-source]
+- [Gas Metrics Dashboard @ `anyblocknalytics.com`](https://dashboards.anyblock.tools/ethereum/ethereum/mainnet/gas-metrics/)
+- ==[Gas Tracker @ `nansen.ai`](https://pro.nansen.ai/gas-tracker)==
 
 ### Gas Tools
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) ([source](https://github.com/mds1/Cancel-Ethereum-Transactions)) - micro dapp
@@ -80,7 +84,6 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`txn.finance`](https://txn.finance/) - spend gas statistics[^txn-finance-src]
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
-- [`bscfee.wtf`](https://bscfee.wtf) - calculate how much gas you spent on the Binance Smart Chain
 
 ### Gas Tokens
 - :star: [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - everything you wanted to know
@@ -130,6 +133,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [DeFi Insight @ `intotheblock.com`](https://app.intotheblock.com/insights/defi/charts)
 - [`ethereumprice.org`](https://ethereumprice.org/) - Blockchain cap, ETH leveraged/dominance
 - [`duneanalytics.com/dex`](https://duneanalytics.com/dex)
+- [`Blockchain Analytics Dashboards`](https://dashboards.anyblock.tools/)
 
 ## TVL (Total Value Locked)
 - [`defipulse.com`](https://defipulse.com/)
@@ -172,7 +176,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`vfat.tools`](https://vfat.tools/)
 
 ## Layer 2
-- ==[`l2beat.com`](https://www.l2beat.com/) - list of L2s, TVL statistics==
+- [`l2beat.com`](https://www.l2beat.com/) - list of L2s, TVL statistics
 - ["Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework"](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
 
 ## Social Money
@@ -192,15 +196,19 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`cryptoartpulse.com`](https://cryptoartpulse.com/)
 - [`nftfi.com`](https://nftfi.com/) - use your NFTs as loan collateral
 - [`pumpmygas.xyz`](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces for creators, buyers, and sellers Fuel pump
+- [Ethereum NFT Marketplace Feature Board (v2)
+ @ `docs.google.com`](https://docs.google.com/spreadsheets/d/1Idy9TBXcWk6VpbASscXHSORaoaz0YR_arBvKRDu6xOI/edit)
 
 ## Token Claims (Airdrops)
 
 - [`earni.fi`](https://earni.fi/) - Find which airdrops and POAPs are waiting for you to claim
-- ==[Airdrops @ `etherscan.io`](https://etherscan.io/airdrops)==
+- [Airdrops @ `etherscan.io`](https://etherscan.io/airdrops)
 
 ## MEV (Miner Extractable Value)
-- ==[`flashbots.net`](flashbots.net)==
-- ==[`explore.flashbots.net`](https://explore.flashbots.net/) - Flashbots MEV statistics==
+- [`flashbots.net`](flashbots.net)
+- [`explore.flashbots.net`](https://explore.flashbots.net/) - Flashbots MEV statistics
+- [`flashbots.tools`](https://flashbots.tools/) - rescue ERC-20/ENS
+- [`flashbots-explorer.netlify.app`](https://flashbots-explorer.netlify.app/)
 
 ## Protocols
 
@@ -245,6 +253,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ### Kleros
 - [`kleroscan.com`](http://kleroscan.com/)
+
+### Liquity
+- ==[`knowyourdefi.com`](https://www.knowyourdefi.com/)==
 
 ### MakerDAO / DAI
 
@@ -329,6 +340,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`py-earn.herokuapp.com`](https://py-earn.herokuapp.com/)
 - [`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
+- ==[`yearn-finance.vercel.app`](https://yearn-finance.vercel.app/)==
 
 ## Flippening
 - [`flippening.watch`](https://www.flippening.watch/)
@@ -353,6 +365,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ### EIP-1559
 - [Projected Daily ETH Issuance @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/zrSKhqUarjkKrvfCgYjuPcUvW39R4ewxXZ3pwpWG)
+- ==[`watchtheburn.com`](https://watchtheburn.com/)==
+- ==[`ultrasound.money`](https://ultrasound.money/)==
 
 ## Ethereum 2.0
 - :star: [`beaconcha.in`](https://beaconcha.in/)
