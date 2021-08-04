@@ -80,6 +80,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`txn.finance`](https://txn.finance/) - spend gas statistics[^txn-finance-src]
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
+- [`bscfee.wtf`](https://bscfee.wtf) - calculate how much gas you spent on the Binance Smart Chain
 
 ### Gas Tokens
 - :star: [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - everything you wanted to know
