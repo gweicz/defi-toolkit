@@ -67,7 +67,6 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 - :star:[`ethgasstation.info`](https://ethgasstation.info/)
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
-- [`gasnow.org`](https://www.gasnow.org/) - forward-looking gas estimates (SparkPool)[^gasnow-src]
 - [`ethgas.watch`](https://ethgas.watch/) - agreggator
 - [`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider
 
@@ -403,7 +402,6 @@ Most important sources:
 [^forefront-src]: https://twitter.com/carlosecgomes/status/1293215171729530880
 [^yam-zippo-src]: https://twitter.com/zippoxer/status/1293342696531255302?s=2
 [^dydx-da-src]: https://twitter.com/DuneAnalytics/status/1237752192267882496
-[^gasnow-src]: https://twitter.com/sparkpool_eth/status/1293739552197103616
 [^tokenscan-src]: https://twitter.com/0xdev0/status/1296724941287563264
 [^diffchecker-src]: https://twitter.com/Weeb_Mcgee/status/1296189359650209795
 [^ethgaswatch-src]: https://twitter.com/wslyvh/status/1298274040574930945
