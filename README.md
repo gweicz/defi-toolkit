@@ -179,6 +179,16 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`l2beat.com`](https://www.l2beat.com/) - list of L2s, TVL statistics
 - ["Evaluating Ethereum L2 Scaling Solutions: A Comparison Framework"](https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955)
 
+## Bridges
+- [Arbitrum bridge (official)](https://bridge.arbitrum.io)
+- [Optimism bridge (official)](https://gateway.optimism.io)
+- [`hop.exchange`](https://app.hop.exchange)
+- [`xpollinate.io`](https://www.xpollinate.io)
+- [`cbridge.celer.network`](https://cbridge.celer.network)
+- [`li.finance`](https://li.finance) - Bridge aggregator
+- [Teleportr](https://portr.xyz) - unofficial Optimism bridge (custodial but cheap) 
+- [Bridge contracts addresses](https://blockscan.com/bridges)
+
 ## Social Money
 - [List of social tokens @ `forefront.news`](https://forefront.news/market/)[^forefront-src]
 
