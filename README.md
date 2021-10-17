@@ -375,6 +375,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Ethereum 2.0 @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
 - [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 - [`eth2-fork-mon.stokes.io`](https://eth2-fork-mon.stokes.io/) - Eth2 fork monitor
+- [`nodewatch.io`](https://www.nodewatch.io/) - Eth2 node analytics dashboard
 
 
 ## Fun
