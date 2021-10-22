@@ -223,6 +223,10 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ## Data/Document storage
 - ==[`web3md.io`](https://web3md.io/) - save markdown notes via web3 to Kovan==
 
+## ENS
+- ==[eth.link](https://eth.link/) - EthDNS resolver (EIP-1185)==
+- ==[eth.limo](https://eth.limo/) - alternative EthDNS resolver==
+
 ## Protocols
 
 ### 0x
