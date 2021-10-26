@@ -69,6 +69,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
 - [`ethgas.watch`](https://ethgas.watch/) - agreggator
 - [`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider
+- ==[`gasprice.io`](https://www.gasprice.io/) - forward-looking gas estimates (flexpool)==
 
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
@@ -226,6 +227,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ## ENS
 - ==[eth.link](https://eth.link/) - EthDNS resolver (EIP-1185)==
 - ==[eth.limo](https://eth.limo/) - alternative EthDNS resolver==
+
+## Development
+- ==[jolly-roger.eth.link](https://jolly-roger.eth.link/) - production-ready template to build dApps==
 
 ## Protocols
 
