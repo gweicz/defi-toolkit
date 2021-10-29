@@ -42,7 +42,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethernodes.org`](https://ethernodes.org/) - node statistics
 - [`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes
 - [`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)
-- ==[`chainid.link`](https://chainid.link/?network=optimism)==
+- [`chainid.link`](https://chainid.link/?network=optimism)
 
 
 ## Blocks & Transactions
@@ -70,13 +70,14 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethgas.watch`](https://ethgas.watch/) - agreggator
 - [`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider
 - ==[`gasprice.io`](https://www.gasprice.io/) - forward-looking gas estimates (flexpool)==
+- ==[`blocknative.com/gas-estimator`](https://www.blocknative.com/gas-estimator)==
 
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
 - [`txpool.zengo.com`](https://txpool.zengo.com/) - Ethereum TxPool Statistics
 - [Gas Prices Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)[^gas-dashboard-source]
 - [Gas Metrics Dashboard @ `anyblocknalytics.com`](https://dashboards.anyblock.tools/ethereum/ethereum/mainnet/gas-metrics/)
-- ==[Gas Tracker @ `nansen.ai`](https://pro.nansen.ai/gas-tracker)==
+- [Gas Tracker @ `nansen.ai`](https://pro.nansen.ai/gas-tracker)
 
 ### Gas Tools
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) ([source](https://github.com/mds1/Cancel-Ethereum-Transactions)) - micro dapp
@@ -207,6 +208,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`cryptoartpulse.com`](https://cryptoartpulse.com/)
 - [`nftfi.com`](https://nftfi.com/) - use your NFTs as loan collateral
 - [`pumpmygas.xyz`](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces for creators, buyers, and sellers Fuel pump
+- ==[`paperhands.gg`](https://www.paperhands.gg/) - find out your biggest paperhanded nft loss==
+- ==[`721.so`](https://www.721.so/) - all-in-one tool for configuring, deploying, and verifying NFT smart contracts==
 - [Ethereum NFT Marketplace Feature Board (v2)
  @ `docs.google.com`](https://docs.google.com/spreadsheets/d/1Idy9TBXcWk6VpbASscXHSORaoaz0YR_arBvKRDu6xOI/edit)
 
@@ -216,7 +219,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Airdrops @ `etherscan.io`](https://etherscan.io/airdrops)
 
 ## MEV (Miner Extractable Value)
-- [`flashbots.net`](flashbots.net)
+- [`flashbots.net`](https://flashbots.net/)
 - [`explore.flashbots.net`](https://explore.flashbots.net/) - Flashbots MEV statistics
 - [`flashbots.tools`](https://flashbots.tools/) - rescue ERC-20/ENS
 - [`flashbots-explorer.netlify.app`](https://flashbots-explorer.netlify.app/)
@@ -225,8 +228,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - ==[`web3md.io`](https://web3md.io/) - save markdown notes via web3 to Kovan==
 
 ## ENS
-- ==[eth.link](https://eth.link/) - EthDNS resolver (EIP-1185)==
-- ==[eth.limo](https://eth.limo/) - alternative EthDNS resolver==
+- [eth.link](https://eth.link/) - EthDNS resolver (EIP-1185)
+- [eth.limo](https://eth.limo/) - alternative EthDNS resolver
 
 ## Development
 - ==[jolly-roger.eth.link](https://jolly-roger.eth.link/) - production-ready template to build dApps==
@@ -276,7 +279,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`kleroscan.com`](http://kleroscan.com/)
 
 ### Liquity
-- ==[`knowyourdefi.com`](https://www.knowyourdefi.com/)==
+- [`knowyourdefi.com`](https://www.knowyourdefi.com/)
 
 ### MakerDAO / DAI
 
@@ -361,7 +364,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`py-earn.herokuapp.com`](https://py-earn.herokuapp.com/)
 - [`gov.yearn.finance`](https://gov.yearn.finance/) - Governance forum
 - [`learnyearn.finance`](https://www.learnyearn.finance/)
-- ==[`yearn-finance.vercel.app`](https://yearn-finance.vercel.app/)==
+- [`yearn-finance.vercel.app`](https://yearn-finance.vercel.app/)
 
 ## Flippening
 - [`flippening.watch`](https://www.flippening.watch/)
@@ -386,8 +389,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ### EIP-1559
 - [Projected Daily ETH Issuance @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/zrSKhqUarjkKrvfCgYjuPcUvW39R4ewxXZ3pwpWG)
-- ==[`watchtheburn.com`](https://watchtheburn.com/)==
-- ==[`ultrasound.money`](https://ultrasound.money/)==
+- [`watchtheburn.com`](https://watchtheburn.com/)
+- [`ultrasound.money`](https://ultrasound.money/)
 
 ## Ethereum 2.0
 - :star: [`beaconcha.in`](https://beaconcha.in/)
