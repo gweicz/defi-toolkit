@@ -69,8 +69,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Gas Tracker @ `etherscan.io`](https://etherscan.io/gastracker)
 - [`ethgas.watch`](https://ethgas.watch/) - agreggator
 - [`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider
-- ==[`gasprice.io`](https://www.gasprice.io/) - forward-looking gas estimates (flexpool)==
-- ==[`blocknative.com/gas-estimator`](https://www.blocknative.com/gas-estimator)==
+- [`gasprice.io`](https://www.gasprice.io/) - forward-looking gas estimates (flexpool)
+- [`blocknative.com/gas-estimator`](https://www.blocknative.com/gas-estimator)
 
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
@@ -150,6 +150,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Communication
 - [`ethmail.cc`](https://ethmail.cc/) - mailbox for all people who have Ethereum wallet
+- ==[`ourspaces.xyz`](https://ourspaces.xyz) - message anyone on Ethereum==
 
 ## Mempool Data
 - [`Blocknative.com`](https://blocknative.com/) - a composable mempool data platofrm. Watch any address for real-time status updates
@@ -208,7 +209,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`cryptoartpulse.com`](https://cryptoartpulse.com/)
 - [`nftfi.com`](https://nftfi.com/) - use your NFTs as loan collateral
 - [`pumpmygas.xyz`](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces for creators, buyers, and sellers Fuel pump
-- ==[`paperhands.gg`](https://www.paperhands.gg/) - find out your biggest paperhanded nft loss==
+- [`paperhands.gg`](https://www.paperhands.gg/) - find out your biggest paperhanded nft loss
 - ==[`721.so`](https://www.721.so/) - all-in-one tool for configuring, deploying, and verifying NFT smart contracts==
 - [Ethereum NFT Marketplace Feature Board (v2)
  @ `docs.google.com`](https://docs.google.com/spreadsheets/d/1Idy9TBXcWk6VpbASscXHSORaoaz0YR_arBvKRDu6xOI/edit)
@@ -225,7 +226,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`flashbots-explorer.netlify.app`](https://flashbots-explorer.netlify.app/)
 
 ## Data/Document storage
-- ==[`web3md.io`](https://web3md.io/) - save markdown notes via web3 to Kovan==
+- [`web3md.io`](https://web3md.io/) - save markdown notes via web3 to Kovan
 
 ## ENS
 - [eth.link](https://eth.link/) - EthDNS resolver (EIP-1185)
