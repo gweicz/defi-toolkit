@@ -150,7 +150,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Communication
 - [`ethmail.cc`](https://ethmail.cc/) - mailbox for all people who have Ethereum wallet
-- ==[`ourspaces.xyz`](https://ourspaces.xyz) - message anyone on Ethereum==
+- [`ourspaces.xyz`](https://ourspaces.xyz) - message anyone on Ethereum
 
 ## Mempool Data
 - [`Blocknative.com`](https://blocknative.com/) - a composable mempool data platofrm. Watch any address for real-time status updates
@@ -197,6 +197,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Contract Inspection
 - [Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)[^diffchecker-src]
+- ==[`etherscan.deth.net`](https://etherscan.deth.net/) - view source of deployed smart contracts in VSCode==
 
 ## Contract Interaction
 - [`ethcontract.watch`](https://ethcontract.watch/) - generates the UI from ABI
@@ -210,7 +211,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`nftfi.com`](https://nftfi.com/) - use your NFTs as loan collateral
 - [`pumpmygas.xyz`](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces for creators, buyers, and sellers Fuel pump
 - [`paperhands.gg`](https://www.paperhands.gg/) - find out your biggest paperhanded nft loss
-- ==[`721.so`](https://www.721.so/) - all-in-one tool for configuring, deploying, and verifying NFT smart contracts==
+- [`721.so`](https://www.721.so/) - all-in-one tool for configuring, deploying, and verifying NFT smart contracts
 - [Ethereum NFT Marketplace Feature Board (v2)
  @ `docs.google.com`](https://docs.google.com/spreadsheets/d/1Idy9TBXcWk6VpbASscXHSORaoaz0YR_arBvKRDu6xOI/edit)
 
@@ -229,11 +230,12 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`web3md.io`](https://web3md.io/) - save markdown notes via web3 to Kovan
 
 ## ENS
-- [eth.link](https://eth.link/) - EthDNS resolver (EIP-1185)
-- [eth.limo](https://eth.limo/) - alternative EthDNS resolver
+- [`eth.link`](https://eth.link/) - EthDNS resolver (EIP-1185)
+- [`eth.limo`](https://eth.limo/) - alternative EthDNS resolver
 
 ## Development
-- ==[jolly-roger.eth.link](https://jolly-roger.eth.link/) - production-ready template to build dApps==
+- [`jolly-roger.eth.link`](https://jolly-roger.eth.link/) - production-ready template to build dApps
+- [`evm.codes`](https://evm.codes/)
 
 ## Protocols
 
@@ -391,7 +393,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ### EIP-1559
 - [Projected Daily ETH Issuance @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/zrSKhqUarjkKrvfCgYjuPcUvW39R4ewxXZ3pwpWG)
 - [`watchtheburn.com`](https://watchtheburn.com/)
-- [`ultrasound.money`](https://ultrasound.money/)
+- [`ultrasound.money`](https://ultrasound.money)
+- [`ethburned.wtf`](https://www.ethburned.wtf/)
 
 ## Ethereum 2.0
 - :star: [`beaconcha.in`](https://beaconcha.in/)
