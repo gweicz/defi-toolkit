@@ -137,6 +137,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`duneanalytics.com/dex`](https://duneanalytics.com/dex)
 - [`Blockchain Analytics Dashboards`](https://dashboards.anyblock.tools/)
 
+## Stablecoins
+- [`stablecoins.wtf` Dashboard](https://stablecoins.wtf)
+
 ## TVL (Total Value Locked)
 - [`defipulse.com`](https://defipulse.com/)
 - [`defillama.com`](https://defillama.com/home)
