@@ -44,6 +44,14 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)
 - [`chainid.link`](https://chainid.link/?network=optimism)
 
+## Beacon Chain
+- :star: [`beaconcha.in`](https://beaconcha.in/)
+- [`beaconscan.com`](https://beaconscan.com/)
+- [`eth2stats.io`](https://eth2stats.io/)
+- [Ethereum 2.0 @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
+- [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
+- [`eth2-fork-mon.stokes.io`](https://eth2-fork-mon.stokes.io/) - Eth2 fork monitor
+- [`nodewatch.io`](https://www.nodewatch.io/) - Eth2 node analytics dashboard
 
 ## Blocks & Transactions
 - :star:[`etherscan.io`](http://etherscan.io/)
@@ -51,14 +59,18 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Transaction visualizer @ `TxStreet.com`](https://txstreet.com/v/eth)
 - [Transaction Reverts @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/1dzncvBWwkFYvbYSMXbubJNCupAGFWU9hJmxja7r)
 - [Anyblock Explorer @ `anyblockanalytics.com`](https://explorer.anyblock.tools/)
+- [`ethvm.com`](https://www.ethvm.com/)
 - [`ethtx.info`](https://ethtx.info/)
+- [`ethplorer.io`](https://ethplorer.io/)
 
 ## Wallets
 - ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
+- ==:star:[`rabby.io`](https://rabby.io/) - a better extension wallet for DeFi users (browser extension)==
+- ==[`frame.sh`](https://frame.sh/) - a privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux (desktop)==
 - [`sweeposaurus.com`](https://sweeposaurus.com/) - He'll make it easy to sweep all your tokens to a new address
 
 <!-- ## Supply
-- [ethsupply](https://github.com/madumas/ethsupply) - calculates the total amount of Eth ever issued[^ethsupply-source]
+- [ethsupply](https://github.com/madumas/ethsupply) - calculates the total amount of Eth ever issued
 - [supply.go](https://gist.github.com/karalabe/4cc4bb89a32a93a194803654753c3fac) -->
 
 ## Fees (gas)
@@ -75,15 +87,15 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
 - [`txpool.zengo.com`](https://txpool.zengo.com/) - Ethereum TxPool Statistics
-- [Gas Prices Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)[^gas-dashboard-source]
+- [Gas Prices Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)
 - [Gas Metrics Dashboard @ `anyblocknalytics.com`](https://dashboards.anyblock.tools/ethereum/ethereum/mainnet/gas-metrics/)
 - [Gas Tracker @ `nansen.ai`](https://pro.nansen.ai/gas-tracker)
 
 ### Gas Tools
 - [Cancel Ethereum Transaction](https://cancel-ethereum-transactions.web.app/) ([source](https://github.com/mds1/Cancel-Ethereum-Transactions)) - micro dapp
 - [`fees.wtf`](https://fees.wtf/) - calculate how much gas you spend
-- [`txn.finance`](https://txn.finance/) - spend gas statistics[^txn-finance-src]
-- [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold[^ethgaswatch-src]
+- [`txn.finance`](https://txn.finance/) - spend gas statistics
+- [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
 - [`bscfee.wtf`](https://bscfee.wtf) - calculate how much gas you spent on the Binance Smart Chain
 
@@ -115,6 +127,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Get Raw Transaction Hex @ `etherscan.io`](https://etherscan.io/getRawTx?tx=0xeb20185d7be6012b4753d17707b0f776511c4db3ecf65ad7dbdc660964e0864f)
 - [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder/) ([source](https://github.com/antoncoding/eth-tx-decoder)) - decode raw transaction
 - [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder) ([source](https://github.com/miguelmota/ethereum-input-data-decoder))
+- ==[RPC Firewall](https://kk779.io/firewall/)==
 
 ## Automation
 - [`hal.xyz`](https://www.hal.xyz/)
@@ -196,11 +209,11 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Bridge contracts addresses](https://blockscan.com/bridges)
 
 ## Social Money
-- [List of social tokens @ `forefront.news`](https://forefront.news/market/)[^forefront-src]
+- [List of social tokens @ `forefront.news`](https://forefront.news/market/)
 
 ## Contract Inspection
-- [Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)[^diffchecker-src]
-- ==[`etherscan.deth.net`](https://etherscan.deth.net/) - view source of deployed smart contracts in VSCode==
+- [Ethereum Contract DiffChecker](https://yieldfarming.info/tools/diff/)
+- [`etherscan.deth.net`](https://etherscan.deth.net/) - view source of deployed smart contracts in VSCode
 
 ## Contract Interaction
 - [`ethcontract.watch`](https://ethcontract.watch/) - generates the UI from ABI
@@ -240,6 +253,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`jolly-roger.eth.link`](https://jolly-roger.eth.link/) - production-ready template to build dApps
 - [`evm.codes`](https://evm.codes/)
 
+## Testnets
+- ==[`faucetlink.to`](https://faucetlink.to/) - all testnet faucets for Kovan, Rinkeby, Goerli, Ropsten and Sepolia==
+
 ## Protocols
 
 ### 0x
@@ -270,10 +286,10 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`kittysales.herokuapp.com`](https://kittysales.herokuapp.com/)
 
 ### Curve
-- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/RTH47mNjQcoLv5oG0HMDdI0iDq7BHxk1PzCRdwQB)[^curve-source]
+- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/RTH47mNjQcoLv5oG0HMDdI0iDq7BHxk1PzCRdwQB)
 
 ### dYdX
-- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)[^dydx-da-src]
+- [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)
 
 ### Indexed Finance
 - [Dashboard @ `duneanalytics.com`](https://duneanalytics.com/0xBoxer/indexed-finance_3)
@@ -313,7 +329,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ### Nexus Mutual
 - [`nexustracker.io`](https://nexustracker.io/)
-- [wNXM Wrap/Unwrap](https://je45e4c2q4x52s66qenp5aeyfonfsvkvupkf4ipefkzs364gbera.arweave.net/STnScFqHL91L3oEa_oCYK5pZVVWj1F4h5CqzLfuGCSI/#/)[^wnxm-source]
+- [wNXM Wrap/Unwrap](https://je45e4c2q4x52s66qenp5aeyfonfsvkvupkf4ipefkzs364gbera.arweave.net/STnScFqHL91L3oEa_oCYK5pZVVWj1F4h5CqzLfuGCSI/#/)
 
 ### Nuo
 - [`nuoscan.io`](https://nuoscan.io/)
@@ -351,7 +367,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`chartex.pro`](https://chartex.pro/?symbol=UNISWAP:DIA) - TradingView interface for low-caps
 - [`dextools.io`](https://www.dextools.io/app/uniswap/pool-explorer) - Pool/Pair Explorer
 - [`pools.fyi`](https://pools.fyi/)
-- [`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools[^tokenscan-src]
+- [`tokenscan.xyz`](http://tokenscan.xyz/) - Discover trending pools
 - [`duneanalytics.com/uni`](https://duneanalytics.com/uni) - UNI token claims
 - [Lost $UNI statistics @ `duneanalytics.com`](https://explore.duneanalytics.com/dashboard/uni-lost-tokens) [needs login]
 - [Permanent Loss™](https://permanentloss.app//)
@@ -359,7 +375,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
 
 ### YAM
-- [`yam.zippo.io`](https://yam.zippo.io/)[^yam-zippo-src]
+- [`yam.zippo.io`](https://yam.zippo.io/)
 - [`yam.tools`](https://yam.tools/)
 - [`yam.chainwiki.dev`](https://yam.chainwiki.dev/)
 - [`duneanalytics.com/yam`](http://duneanalytics.com/yam)
@@ -392,22 +408,18 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [ETH.Build](https://eth.build/)
 
 ## Research
+- ==[`eips.ethereum.org`](https://eips.ethereum.org/)==
+
+### EIPs web pages
+- ==[`login.xyz`](https://login.xyz/) - EIP-4361: Sign-In with Ethereum==
+- ==[`erc4626.info`](https://erc4626.info/) - ERC-4626: Tokenized Vault Standard==
+- ==[`eip4844.com`](https://eip4844.com/) - EIP-4844: Shard Blob Transactions==
 
 ### EIP-1559
 - [Projected Daily ETH Issuance @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/zrSKhqUarjkKrvfCgYjuPcUvW39R4ewxXZ3pwpWG)
 - [`watchtheburn.com`](https://watchtheburn.com/)
-- [`ultrasound.money`](https://ultrasound.money)
+- :star:[`ultrasound.money`](https://ultrasound.money)
 - [`ethburned.wtf`](https://www.ethburned.wtf/)
-
-## Ethereum 2.0
-- :star: [`beaconcha.in`](https://beaconcha.in/)
-- [`beaconscan.com`](https://beaconscan.com/)
-- [`eth2stats.io`](https://eth2stats.io/)
-- [Ethereum 2.0 @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
-- [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
-- [`eth2-fork-mon.stokes.io`](https://eth2-fork-mon.stokes.io/) - Eth2 fork monitor
-- [`nodewatch.io`](https://www.nodewatch.io/) - Eth2 node analytics dashboard
-
 
 ## Fun
 - [`feedvitalik.com`](https://feedvitalik.com/) ([source](https://github.com/bford21/FeedVitalik))
@@ -425,16 +437,3 @@ Most important sources:
 - [Ethereum community @ Twitter](https://hive.one/ethereum)
 - <https://github.com/denisnazarov/awesome-crypto-trackers>
 - <https://github.com/colekennelly1/awesome-defi-trackers>
-
-
-[^wnxm-source]: https://twitter.com/BatmanDeFi/status/1284206337165910016
-[^ethsupply-source]: https://twitter.com/marcandu/status/1291840343047118854
-[^curve-source]: https://twitter.com/CurveFinance/status/1243327941091577856?s=20
-[^gas-dashboard-source]: https://twitter.com/alex_kroeger/status/1294093017901670411
-[^forefront-src]: https://twitter.com/carlosecgomes/status/1293215171729530880
-[^yam-zippo-src]: https://twitter.com/zippoxer/status/1293342696531255302?s=2
-[^dydx-da-src]: https://twitter.com/DuneAnalytics/status/1237752192267882496
-[^tokenscan-src]: https://twitter.com/0xdev0/status/1296724941287563264
-[^diffchecker-src]: https://twitter.com/Weeb_Mcgee/status/1296189359650209795
-[^ethgaswatch-src]: https://twitter.com/wslyvh/status/1298274040574930945
-[^txn-finance-src]: https://twitter.com/tansawit/status/1308374889082974208
