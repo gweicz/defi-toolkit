@@ -1,5 +1,5 @@
 ---
-title: DeFi Toolkit by @gweicz
+title: DeFi Toolkit by @gweica
 tags: defi, ethereum, eth, smart-contract
 description: Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem.
 image: https://i.imgur.com/r48kTSf.png
@@ -43,6 +43,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes
 - [`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)
 - [`chainid.link`](https://chainid.link/?network=optimism)
+- ==[`clientdiversity.org`](https://clientdiversity.org/) - Improve Ethereum's resilience by using a minority client==
 
 ## Beacon Chain
 - :star: [`beaconcha.in`](https://beaconcha.in/)
@@ -65,8 +66,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Wallets
 - ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
-- ==:star:[`rabby.io`](https://rabby.io/) - a better extension wallet for DeFi users (browser extension)==
-- ==[`frame.sh`](https://frame.sh/) - a privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux (desktop)==
+- :star:[`rabby.io`](https://rabby.io/) - a better extension wallet for DeFi users (browser extension)
+- [`frame.sh`](https://frame.sh/) - a privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux (desktop)
 - [`sweeposaurus.com`](https://sweeposaurus.com/) - He'll make it easy to sweep all your tokens to a new address
 
 <!-- ## Supply
@@ -98,6 +99,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
 - [`bscfee.wtf`](https://bscfee.wtf) - calculate how much gas you spent on the Binance Smart Chain
+- ==[`shouldisendmytx.info`](https://shouldisendmytx.info/)==
+- ==[`gashawk.io`](https://www.gashawk.io/) - RPC proxy for saving gas==
 
 ### Gas Tokens
 - :star: [Chi Gastoken](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - everything you wanted to know
@@ -248,13 +251,15 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ## ENS
 - [`eth.link`](https://eth.link/) - EthDNS resolver (EIP-1185)
 - [`eth.limo`](https://eth.limo/) - alternative EthDNS resolver
+- [`ensfairy.xyz`](https://ensfairy.xyz/) - gift an ENS name
+- ==[`ens.vision`](https://www.ens.vision/) - discover and trade ENS names across marketplaces==
 
 ## Development
 - [`jolly-roger.eth.link`](https://jolly-roger.eth.link/) - production-ready template to build dApps
 - [`evm.codes`](https://evm.codes/)
 
 ## Testnets
-- ==[`faucetlink.to`](https://faucetlink.to/) - all testnet faucets for Kovan, Rinkeby, Goerli, Ropsten and Sepolia==
+- [`faucetlink.to`](https://faucetlink.to/) - all testnet faucets for Kovan, Rinkeby, Goerli, Ropsten and Sepolia
 
 ## Protocols
 
