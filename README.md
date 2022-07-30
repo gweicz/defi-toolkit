@@ -44,6 +44,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)
 - [`chainid.link`](https://chainid.link/?network=optimism)
 - ==[`clientdiversity.org`](https://clientdiversity.org/) - Improve Ethereum's resilience by using a minority client==
+- ==[`ethtps.info`](https://ethtps.info/) - max. tps recorded on EVM chains==
 
 ## Beacon Chain
 - :star: [`beaconcha.in`](https://beaconcha.in/)
@@ -53,6 +54,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Ethereum 2.0 clients @ `ethhub.com`](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 - [`eth2-fork-mon.stokes.io`](https://eth2-fork-mon.stokes.io/) - Eth2 fork monitor
 - [`nodewatch.io`](https://www.nodewatch.io/) - Eth2 node analytics dashboard
+- ==[`ethsta.com`](https://ethsta.com/) - staking, states & statistics==
 
 ## Blocks & Transactions
 - :star:[`etherscan.io`](http://etherscan.io/)
@@ -63,6 +65,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethvm.com`](https://www.ethvm.com/)
 - [`ethtx.info`](https://ethtx.info/)
 - [`ethplorer.io`](https://ethplorer.io/)
+- ==[`0xjjpa.com`](https://0xjjpa.com/) - proof of the timestamp==
 
 ## Wallets
 - ["Ethereum Wallet Comparison" article](https://github.com/shanefontaine/ethereum-wallet-comparison)
@@ -84,6 +87,8 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`dethgasstation.eth.link`](http://dethgasstation.eth.link/) - gas estimator thru web3 provider
 - [`gasprice.io`](https://www.gasprice.io/) - forward-looking gas estimates (flexpool)
 - [`blocknative.com/gas-estimator`](https://www.blocknative.com/gas-estimator)
+- ==[`shouldisendmytx.info`](https://shouldisendmytx.info/)==
+- ==[`ethgasalerts.xyz`](https://ethgasalerts.xyz/)==
 
 ### Historic Gas
 - [Ethereum Gas Charts @ `ethereumprice.org`](https://ethereumprice.org/gas/)
@@ -99,7 +104,6 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethgas.watch`](https://ethgas.watch/) - get notified when gas prices drop below the threshold
 - [GasPriceTRackerBot @ `telegram.org`](https://t.me/GasPriceTRackerBot)
 - [`bscfee.wtf`](https://bscfee.wtf) - calculate how much gas you spent on the Binance Smart Chain
-- ==[`shouldisendmytx.info`](https://shouldisendmytx.info/)==
 - ==[`gashawk.io`](https://www.gashawk.io/) - RPC proxy for saving gas==
 
 ### Gas Tokens
@@ -248,12 +252,6 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ## Data/Document storage
 - [`web3md.io`](https://web3md.io/) - save markdown notes via web3 to Kovan
 
-## ENS
-- [`eth.link`](https://eth.link/) - EthDNS resolver (EIP-1185)
-- [`eth.limo`](https://eth.limo/) - alternative EthDNS resolver
-- [`ensfairy.xyz`](https://ensfairy.xyz/) - gift an ENS name
-- ==[`ens.vision`](https://www.ens.vision/) - discover and trade ENS names across marketplaces==
-
 ## Development
 - [`jolly-roger.eth.link`](https://jolly-roger.eth.link/) - production-ready template to build dApps
 - [`evm.codes`](https://evm.codes/)
@@ -295,6 +293,13 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ### dYdX
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9)
+
+### ENS
+- [`eth.link`](https://eth.link/) - EthDNS resolver (EIP-1185)
+- [`eth.limo`](https://eth.limo/) - alternative EthDNS resolver
+- [`ensfairy.xyz`](https://ensfairy.xyz/) - gift an ENS name
+- ==[`ens.vision`](https://www.ens.vision/) - discover and trade ENS names across marketplaces==
+- ==[`ethleaderboard.xyz`](https://ethleaderboard.xyz/) - The most followed Twitter accounts with .eth names==
 
 ### Indexed Finance
 - [Dashboard @ `duneanalytics.com`](https://duneanalytics.com/0xBoxer/indexed-finance_3)
@@ -346,6 +351,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 ### Opyn
 - [`opynmonitor.xyz`](https://opynmonitor.xyz/)
 
+### PoolTogether
+- ==[`prizecalc.com`](https://prizecalc.com/) - Deposit Delegator Calculator==
+
 ### Ren
 - [Dashboard @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/hXk0g5BaYNrIfqKwuqXTiRDTqD4UAszmoGzebIlV)
 
@@ -378,6 +386,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [Permanent Loss™](https://permanentloss.app//)
 - [Impermanent Loss Calculator](https://chitty27.pythonanywhere.com/)
 - ["A short history of Uniswap" article](https://uniswap.org/blog/uniswap-history/)
+- ==[`uniswapv3.thechun.dev`](https://uniswapv3.thechun.dev/)==
 
 ### YAM
 - [`yam.zippo.io`](https://yam.zippo.io/)
@@ -413,12 +422,12 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [ETH.Build](https://eth.build/)
 
 ## Research
-- ==[`eips.ethereum.org`](https://eips.ethereum.org/)==
+- [`eips.ethereum.org`](https://eips.ethereum.org/)
 
 ### EIPs web pages
-- ==[`login.xyz`](https://login.xyz/) - EIP-4361: Sign-In with Ethereum==
-- ==[`erc4626.info`](https://erc4626.info/) - ERC-4626: Tokenized Vault Standard==
-- ==[`eip4844.com`](https://eip4844.com/) - EIP-4844: Shard Blob Transactions==
+- [`login.xyz`](https://login.xyz/) - EIP-4361: Sign-In with Ethereum
+- [`erc4626.info`](https://erc4626.info/) - ERC-4626: Tokenized Vault Standard
+- [`eip4844.com`](https://eip4844.com/) - EIP-4844: Shard Blob Transactions
 
 ### EIP-1559
 - [Projected Daily ETH Issuance @ `duneanalytics.com`](https://explore.duneanalytics.com/public/dashboards/zrSKhqUarjkKrvfCgYjuPcUvW39R4ewxXZ3pwpWG)
