@@ -43,8 +43,9 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 - [`ethereumnodes.com`](https://ethereumnodes.com) - list of public nodes
 - [`chainid.network`](https://chainid.network/) - A list of EVM networks (for clients like Metamask)
 - [`chainid.link`](https://chainid.link/?network=optimism)
-- ==[`clientdiversity.org`](https://clientdiversity.org/) - Improve Ethereum's resilience by using a minority client==
-- ==[`ethtps.info`](https://ethtps.info/) - max. tps recorded on EVM chains==
+- [`clientdiversity.org`](https://clientdiversity.org/) - Improve Ethereum's resilience by using a minority client
+- [`ethtps.info`](https://ethtps.info/) - max. tps recorded on EVM chains
+- [`chainspect.app`](https://chainspect.app/) - tool for blockchain analytics. Analyze real-time TPS, max TPS, Block Time & more
 
 ## Beacon Chain
 - :star: [`beaconcha.in`](https://beaconcha.in/)
